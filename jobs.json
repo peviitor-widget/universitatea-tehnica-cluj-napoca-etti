@@ -1,0 +1,512 @@
+[
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1073#content",
+    "title": "Internship - Inginer electric",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:10:58.035Z",
+    "status": "scraped",
+    "tags": [
+      "Surse alimentare",
+      "Electronica de putere"
+    ],
+    "matchPercentage": 40,
+    "reason": "Inginerie electrică – există o suprapunere parțială cu sursele de alimentare și electronica de putere din planul de învățământ"
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1240#content",
+    "title": "Internship inginer electric",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:10:37.212Z",
+    "status": "scraped",
+    "tags": [
+      "Surse alimentare",
+      "Electronica de putere"
+    ],
+    "matchPercentage": 40,
+    "reason": "Similar cu internship inginer electric – suprapunere cu competențe de electronică de putere și surse de alimentare"
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1397#content",
+    "title": "Inginer automatist",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:10:36.293Z",
+    "status": "scraped",
+    "tags": [
+      "Automatizari",
+      "Achizitie de date"
+    ],
+    "matchPercentage": 55,
+    "reason": "Automatizări și instrumentație – aliniat cu competențele de automatizări, instrumentație, achiziție de date și programare microcontrolere"
+  },
+  {
+    "url": "https://jobs.vodafone.com/careers/job/563018696871910",
+    "title": "Junior Engineer 1st Line with Czech",
+    "company": "VODAFONE ROMANIA SA",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:12:21.317Z",
+    "status": "scraped",
+    "tags": [
+      "Retelistica",
+      "Telecomunicatii"
+    ],
+    "matchPercentage": 45,
+    "reason": "Suport rețele telecom – aliniat cu competențele de rețele, protocoale internet, telecomunicații; cerința de limba cehă este un obstacol"
+  },
+  {
+    "url": "https://jobs.infineon.com/careers/job/563808971861571",
+    "title": "Principal Engineer Functional Verification (f/m/div)",
+    "company": "INFINEON TECHNOLOGIES ROMANIA SRL",
+    "location": [
+      "Bucuresti,Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:12:21.317Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare FPGA",
+      "Arhitectura microprocesoarelor"
+    ],
+    "matchPercentage": 50,
+    "reason": "Verificare funcțională RTL/UVM pe FPGA/chip design – aliniat cu competențele de proiectare FPGA și arhitectură microprocesoare"
+  },
+  {
+    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Commissioning-Engineer-for-High-Voltage-Direct-Current-HVDC-Open-Loop-Control-OLC/278119",
+    "title": "Commissioning Engineer for High Voltage Direct Current (HVDC) – Open Loop Control (OLC)",
+    "company": "SIEMENS ENERGY AUSTRIA GMBH VIENA SUCURSALA BUCURESTI",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:12:19.905Z",
+    "status": "scraped",
+    "tags": [
+      "Electronica de putere",
+      "Automatizari"
+    ],
+    "matchPercentage": 40,
+    "reason": "Control și automatizări în putere – parțial relevant cu surse de alimentare, electronica de putere și automatizări"
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=400#content",
+    "title": "Electrical Engineer",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:12:19.905Z",
+    "status": "scraped",
+    "tags": [
+      "Surse alimentare",
+      "Electronica de putere"
+    ],
+    "matchPercentage": 45,
+    "reason": "Inginerie electrică generală – suprapunere cu surse de alimentare, electronică de putere și cunoștiințe electrice de bază"
+  },
+  {
+    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Off-Shore-Automation-Engineer-German-Speaker/290962",
+    "title": "Off-Shore Automation Engineer (German Speaker)",
+    "company": "SIEMENS ENERGY AUSTRIA GMBH VIENA SUCURSALA BUCURESTI",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:12:19.904Z",
+    "status": "scraped",
+    "tags": [
+      "Automatizari",
+      "Instrumentatie"
+    ],
+    "matchPercentage": 50,
+    "reason": "Automatizări offshore – aliniat cu competențele de automatizări, instrumentație și microcontrolere; cerința de limba germană e un obstacol"
+  },
+  {
+    "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/17818?c=hella",
+    "title": "Senior Hardware Developer HV BMS",
+    "company": "HELLA ROMÂNIA SRL",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:10:09.657Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare circuite electronice",
+      "Electronica auto"
+    ],
+    "matchPercentage": 55,
+    "reason": "Hardware development pentru BMS (Battery Management System) în automotive – aliniat cu competențele de proiectare circuite electronice, electronică auto și senzori"
+  },
+  {
+    "url": "https://jobs.keysight.com/external/jobs/54347",
+    "title": "R&amp;D Engineer 6, Hardware",
+    "company": "KEYSIGHT TECHNOLOGIES RO SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:09:29.278Z",
+    "status": "scraped",
+    "tags": [
+      "Masuratori electronice",
+      "Proiectare circuite electronice"
+    ],
+    "matchPercentage": 88,
+    "reason": "Keysight = testare și măsurare electronică. R&D hardware pe aparatură de măsură, design de circuite electronice"
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF276894V-phd-scholarship-in-software-and-hardware",
+    "title": "PhD Scholarship in Software and Hardware",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:52.422Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare sisteme incorporate",
+      "Programare C/C++"
+    ],
+    "matchPercentage": 75,
+    "reason": "Bursă doctorat software + hardware la Bosch. Potrivit pentru cine vrea carieră în R&D, dar necesită angajament academic"
+  },
+  {
+    "url": "https://careers.yazaki.com/job/Hardware-Design-Engineer-LV-Advanced-Engineering/1340937055/",
+    "title": "Hardware Design Engineer - LV Advanced Engineering",
+    "company": "YAZAKI ROMANIA SRL",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:48.220Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare circuite electronice",
+      "Electronica auto"
+    ],
+    "matchPercentage": 85,
+    "reason": "Yazaki = conectori auto, LV = Low Voltage. Proiectare hardware pentru industria automotive, direct în domeniul ETTI"
+  },
+  {
+    "url": "https://jobsearch.harman.com/en_US/careers/JobDetail/AES-Hardware-Engineer/32417",
+    "title": "AES - Hardware Engineer",
+    "company": "HARMAN NAMISER PFA",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:15.927Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare circuite electronice",
+      "Electronica auto"
+    ],
+    "matchPercentage": 82,
+    "reason": "Harman = electronice auto/audio. Hardware engineer = proiectare circuite, perfect pentru competențele ETTI"
+  },
+  {
+    "url": "https://jobsearch.harman.com/en_US/careers/JobDetail/AES-Hardware-Engineer/32413",
+    "title": "AES - Hardware Engineer",
+    "company": "HARMAN NAMISER PFA",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:15.927Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare circuite electronice",
+      "Electronica auto"
+    ],
+    "matchPercentage": 82,
+    "reason": "Diferit ID job, aceeași poziție Hardware Engineer la Harman"
+  },
+  {
+    "url": "https://jobsearch.harman.com/en_US/careers/JobDetail/AES-Hardware-Engineer/32419",
+    "title": "AES - Hardware Engineer",
+    "company": "HARMAN NAMISER PFA",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:15.927Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare circuite electronice",
+      "Electronica auto"
+    ],
+    "matchPercentage": 82,
+    "reason": "Diferit ID job, aceeași poziție Hardware Engineer la Harman"
+  },
+  {
+    "url": "https://jobsearch.harman.com/en_US/careers/JobDetail/AES-Hardware-Engineer/32418",
+    "title": "AES - Hardware Engineer",
+    "company": "HARMAN NAMISER PFA",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:15.927Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare circuite electronice",
+      "Electronica auto"
+    ],
+    "matchPercentage": 82,
+    "reason": "Diferit ID job, aceeași poziție Hardware Engineer la Harman"
+  },
+  {
+    "url": "https://careers.honeywell.com/en/sites/Honeywell/job/151886",
+    "title": "Advanced Hardware Engineer",
+    "company": "HONEYWELL ROMANIA SRL",
+    "location": [
+      "Lugoj, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:07:55.125Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare circuite electronice",
+      "Sisteme incorporate"
+    ],
+    "matchPercentage": 68,
+    "reason": "Honeywell hardware engineering, dar nivelul 'Advanced' cere experiență mai mare decât un junior"
+  },
+  {
+    "url": "https://jobs.rinf.tech/211850",
+    "title": "Software Engineer – Security Firmware",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:04:52.591Z",
+    "status": "scraped",
+    "tags": [
+      "Programare C/C++",
+      "Securitate cibernetica"
+    ],
+    "matchPercentage": 72,
+    "reason": "Firmware security = programare embedded C/C++ + securitate cibernetica. Baza ETTI este relevantă"
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/software-engineer-security-firmware",
+    "title": "Software Engineer – Security Firmware",
+    "company": "PUREQUAD SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:45:17.448Z",
+    "status": "scraped",
+    "tags": [
+      "Programare C/C++",
+      "Securitate cibernetica"
+    ],
+    "matchPercentage": 72,
+    "reason": "Firmware security, similar cu jobul anterior. Programare embedded + securitate"
+  },
+  {
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/Software-Engineer-for-Automotive-Security-Firmware_R-10064203",
+    "title": "Software Engineer for Automotive Security Firmware",
+    "company": "NXP BIROTICA SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-29T13:58:19.879Z",
+    "status": "scraped",
+    "tags": [
+      "Programare C/C++",
+      "Electronica auto"
+    ],
+    "matchPercentage": 83,
+    "reason": "NXP = semiconductor. Automotive security firmware = programare embedded, automotive, securitate - acoperă 3 domenii ETTI"
+  },
+  {
+    "url": "https://rian-partners.com/job/inginer-automatist-progaramare-plc/",
+    "title": "Inginer Automatist – Programare Plc",
+    "company": "RIAN &amp; PARTENERS CONSULTING SRL",
+    "location": [
+      "Pitești, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-03T12:49:14.376Z",
+    "status": "scraped",
+    "tags": [
+      "Automatizari",
+      "Programare"
+    ],
+    "matchPercentage": 70,
+    "reason": "Automatizări și programare PLC, direct în domeniul ETTI (Automatizări și instrumentație)"
+  },
+  {
+    "url": "https://recrutaresiselectie.ro/job/electrician-instalatii-electrice-si-sisteme-fotovoltaice/",
+    "title": "Electrician – Instalații Electrice și Sisteme Fotovoltaice",
+    "company": "HUMAN CAPITAL SRL",
+    "location": [
+      "Bucuresti,Ilfov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:21.584Z",
+    "status": "scraped",
+    "tags": [
+      "Electronica de putere",
+      "Surse de alimentare"
+    ],
+    "matchPercentage": 55,
+    "reason": "Instalatii electrice si fotovoltaice - partial relevant pentru profilul de inginerie electrica ETTI"
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Inginer-proiectant-sisteme-fotovoltaice",
+    "title": "Inginer proiectant sisteme fotovoltaice",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:06:36.981Z",
+    "status": "scraped",
+    "tags": [
+      "Surse de alimentare",
+      "Proiectare CAD"
+    ],
+    "matchPercentage": 60,
+    "reason": "Proiectare sisteme fotovoltaice - relevant pentru ingineria electrica ETTI"
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3340130",
+    "title": "PROIECTANT SISTEME INFORMATICE",
+    "company": "SOBIS AP S.R.L.",
+    "location": [
+      "SIBIU"
+    ],
+    "salary": null,
+    "date": "2026-09-17T11:00:47.194Z",
+    "status": "scraped",
+    "tags": [
+      "Programare",
+      "Bazele retelelor"
+    ],
+    "matchPercentage": 65,
+    "reason": "Dezvoltare software Angular/.NET - relevant pentru competentele de programare ETTI"
+  },
+  {
+    "url": "https://prysmiangroup.wd3.myworkdayjobs.com/en-US/Careers/job/Milcov/Junior-IT-HelpDesk-and-NOC-Operator_R-34220",
+    "title": "Junior IT HelpDesk and NOC Operator",
+    "company": "PRYSMIAN CABLURI ŞI SISTEME SA",
+    "location": [
+      "Slatina, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-16T14:05:24.652Z",
+    "status": "scraped",
+    "tags": [
+      "Retele de calculatoare",
+      "Configurare retelistica"
+    ],
+    "matchPercentage": 60,
+    "reason": "Rol junior de retele (NOC) si support IT, aliniat cu competentele de retele de calculatoare si configurare retelistica, desi accent mai mult pe support."
+  },
+  {
+    "url": "https://prysmiangroup.wd3.myworkdayjobs.com/en-US/Careers/job/Milcov/Junior-IT-HelpDesk-and-NOC-Operator_R-34219",
+    "title": "Junior IT HelpDesk and NOC Operator",
+    "company": "PRYSMIAN CABLURI ŞI SISTEME SA",
+    "location": [
+      "Slatina, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-16T14:05:24.652Z",
+    "status": "scraped",
+    "tags": [
+      "Retele de calculatoare",
+      "Configurare retelistica"
+    ],
+    "matchPercentage": 60,
+    "reason": "Rol junior de retele (NOC) si support IT, aliniat cu competentele de retele de calculatoare si configurare retelistica, desi accent mai mult pe support."
+  },
+  {
+    "url": "https://careers.quality-ai.com//job/Bucharest-Junior-FPGA-Engineer-Radio-&amp;-Communications/57033044/",
+    "title": "Junior FPGA Engineer - Radio &amp; Communications",
+    "company": "QUALITEST S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:06:58.129Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare cu FPGA",
+      "Radiocomunicatii"
+    ],
+    "matchPercentage": 90,
+    "reason": "Pozitie junior de FPGA in radiocomunicatii, aliniata perfect cu proiectarea cu FPGA si cunostintele de RF/radiocomunicatii."
+  },
+  {
+    "url": "https://gmv.csod.com/ux/ats/careersite/4/home/requisition/4911?c=gmv&amp;lang=en-US",
+    "title": "FPGA and SoC Engineer",
+    "company": "GMV GRUP S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:06:04.211Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare cu FPGA",
+      "Sisteme incorporate"
+    ],
+    "matchPercentage": 70,
+    "reason": "Proiectare FPGA si system-on-chip, aliniat cu competentele de FPGA, microprocesoare si sisteme incorporate; posibil mid-level."
+  },
+  {
+    "url": "https://careers.quality-ai.com//job/Bucharest-Modem-Engineer-%28FPGA%29/54011644/",
+    "title": "Modem Engineer (FPGA)",
+    "company": "QUALITEST S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:04:33.425Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare cu FPGA",
+      "Transmisiune de date"
+    ],
+    "matchPercentage": 85,
+    "reason": "FPGA aplicat la modemuri in telecomunicatii; combina proiectarea cu FPGA, transmisiunea de date si DSP."
+  },
+  {
+    "url": "https://careers.quality-ai.com/job/Bucharest-Junior-FPGA-Engineer-Radio-&amp;-Communications/57033044/",
+    "title": "Junior FPGA Engineer - Radio &amp; Communications",
+    "company": "QUALITEST S.R.L.",
+    "location": [
+      "București"
+    ],
+    "salary": null,
+    "date": "2026-09-17T11:02:25.065Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare cu FPGA",
+      "Radiocomunicatii"
+    ],
+    "matchPercentage": 90,
+    "reason": "Pozitie junior de FPGA in radiocomunicatii, aliniata perfect cu proiectarea cu FPGA si cunostintele de RF/radiocomunicatii."
+  }
+]
