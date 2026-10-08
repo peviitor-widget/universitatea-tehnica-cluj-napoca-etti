@@ -1,54 +1,105 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/gate-level-design-verification",
-    "title": "Gate Level Design Verification",
-    "company": "MEDICAL DEVICES &amp; DIAGNOSTICS SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/early-careers-rotational-program-fpga-engineer-engineer",
+    "title": "Early Careers: Rotational Program - FPGA Engineer Engineer",
+    "company": "ZINNEC SOLUTIONS S.R.L.",
     "location": [
-      "Iași, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:09:14.337Z",
+    "date": "2026-10-07T15:10:47.027Z",
     "status": "scraped",
     "tags": [
-      "circuite digitale",
+      "FPGA/VHDL",
       "proiectare hardware"
     ],
-    "matchPercentage": 90,
-    "reason": "Verificare la nivel de gate - foarte relevant pentru circuite digitale."
+    "matchPercentage": 92,
+    "reason": "Program entry-level rotativ pentru inginer FPGA, potrivit ca nivel si domeniu direct."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272339/SCHAEFFLER/Schaeffler-Automotive-Laboratory---CIP---Circuite-Inteligente-Programabile",
-    "title": "Schaeffler Automotive Laboratory - CIP - Circuite Inteligente Programabile",
-    "company": "SCHAEFFLER ROMANIA SRL",
+    "url": "https://careers.amd.com/careers-home/jobs/91606",
+    "title": "Gate Level Design Verification",
+    "company": "AMD GRUP SRL",
     "location": [
       "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:08:45.693Z",
+    "date": "2026-10-07T15:25:20.213Z",
     "status": "scraped",
     "tags": [
       "FPGA",
-      "proiectare hardware"
-    ],
-    "matchPercentage": 90,
-    "reason": "Circuite inteligente programabile (FPGA) - foarte relevant pentru specializarea ETTI."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/incepe-ti-cariera-in-industria-electronica-1",
-    "title": "Începe-ți cariera în industria electronică!",
-    "company": "FLASHNET S.A.",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:52:23.085Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare circuite",
-      "microcontrolere"
+      "circuite integrate"
     ],
     "matchPercentage": 88,
-    "reason": "Program de start in cariera in industria electronica, deci domeniu direct potrivit si nivel entry-level."
+    "reason": "Verificarea la nivel de porti a procesoarelor x86 se bazeaza direct pe proiectare digitala, VHDL/Verilog si simulare, iar rolul este descris ca nivel de intrare/echipa."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271685/AUMOVIO-Romania/Internship-for-Printed-Circuit-Board-(Iasi)",
+    "title": "Internship for Printed Circuit Board (Iasi)",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:24:46.550Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare PCB",
+      "circuite electronice"
+    ],
+    "matchPercentage": 88,
+    "reason": "Internship de proiectare PCB pentru produse electronice auto, direct în domeniul proiectării de circuite."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272347/Bosch-Romania/-Embedded-AI-Software-Engineer-Mid-Level",
+    "title": "Embedded AI Software Engineer Mid-Level",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:26:54.162Z",
+    "status": "scraped",
+    "tags": [
+      "embedded si microcontrolere",
+      "programare C/C++"
+    ],
+    "matchPercentage": 86,
+    "reason": "Inginer software embedded AI la nivel mid, direct în domeniul embedded/microcontrolere cu programare C/C++."
+  },
+  {
+    "url": "https://multijobs.ro/job/inginer-electronica-electrotehnica/2390",
+    "title": "Inginer electronica – electrotehnica",
+    "company": "EE TEST SA",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:18:58.034Z",
+    "status": "scraped",
+    "tags": [
+      "Simulare și măsurători",
+      "Circuite electronice"
+    ],
+    "matchPercentage": 84,
+    "reason": "Inginer electronica-electrotehnica într-o firmă de testare: folosește direct proiectarea circuitelor, măsurătorile și instrumentația."
+  },
+  {
+    "url": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Timisoara-RO/Software-Development-Engineer---Video-Pipeline-Integration--SoCs-_R00245653",
+    "title": "Software Development Engineer - Video Pipeline Integration (SoCs)",
+    "company": "MAGNA ELECTRONICS ROMANIA S.R.L.",
+    "location": [
+      "Timișoara,Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:27:31.604Z",
+    "status": "scraped",
+    "tags": [
+      "embedded",
+      "procesare digitala semnale"
+    ],
+    "matchPercentage": 78,
+    "reason": "Dezvoltare software embedded pe SoC-uri cu pipeline video și procesare de semnal în aplicații auto, foarte aproape de competențele tale de embedded, DSP și electronică auto."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-in-electronica-1",
@@ -61,215 +112,348 @@
     "date": "2026-10-06T15:04:36.923Z",
     "status": "scraped",
     "tags": [
-      "proiectare circuite",
-      "circuite integrate"
+      "Circuite electronice",
+      "Proiectare PCB"
     ],
-    "matchPercentage": 86,
-    "reason": "Postul de inginer in electronica se potriveste direct profilului tau de proiectare si analiza a circuitelor electronice."
+    "matchPercentage": 76,
+    "reason": "Post de inginer în electronică, direct în domeniu, însă descrierea nu precizează nivelul de experiență cerut."
   },
   {
-    "url": "https://career.luxoft.com/jobs/electrical-harness-design-26526",
-    "title": "Electrical Harness Design",
-    "company": "LUXOFT PROFESSIONAL ROMANIA SRL",
+    "url": "https://multijobs.ro/job/tehnician-retea-telecomunicatii-si-mentenanta/6430",
+    "title": "Tehnician Retea -Telecomunicatii si Mentenanta",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Bucuresti, Romania"
+      "Giurgiu, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:06:32.612Z",
+    "date": "2026-10-07T15:24:18.892Z",
     "status": "scraped",
     "tags": [
-      "proiectare circuite",
-      "auto embedded"
+      "retele de calculatoare",
+      "protocoale de comunicatii"
     ],
-    "matchPercentage": 82,
-    "reason": "Proiectare de sisteme de fire si circuite pentru vehicule, cu notiuni de semnale analogice/digitale, retele CAN/LIN si EMC, direct relevanta pentru electronica auto si proiectarea circuitelor."
+    "matchPercentage": 76,
+    "reason": "Tehnician de rețea/telecom, domeniu acoperit direct de competențele de retele si comunicatii, la nivel entry."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272341/SCHAEFFLER/Schaeffler-Automotive-Laboratory---Hardware-Development",
-    "title": "Schaeffler Automotive Laboratory - Hardware Development",
-    "company": "SCHAEFFLER ROMANIA SRL",
+    "url": "https://multijobs.ro/job/tehnician-retele-telecomunicatii/2493",
+    "title": "Tehnician Retele Telecomunicatii",
+    "company": "PRO CONECT SRL",
+    "location": [
+      "Suceava, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:22:17.998Z",
+    "status": "scraped",
+    "tags": [
+      "retele de calculatoare",
+      "protocoale de comunicatii"
+    ],
+    "matchPercentage": 76,
+    "reason": "Tehnician retele telecomunicatii, sarcini direct legate de competentele de retele si comunicatii, nivel potrivit."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270990/AUMOVIO-Romania/Internship-for-REL-Laboratory-(Iasi)",
+    "title": "Internship for REL Laboratory (Iasi)",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
     "location": [
       "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:08:45.693Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare hardware",
-      "embedded systems"
-    ],
-    "matchPercentage": 80,
-    "reason": "Dezvoltare hardware automotive, relevantă pentru circuite și embedded."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-hardware-testare-documentare-suport-tehnic-6",
-    "title": "Inginer Hardware-Testare-Documentare-Suport Tehnic",
-    "company": "DAI-TECH S.A.",
-    "location": [
-      "Strada Berlin 6, Dumbravita 307160, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:02:41.411Z",
-    "status": "scraped",
-    "tags": [
-      "masuratori electronice",
-      "elemente de testare"
-    ],
-    "matchPercentage": 80,
-    "reason": "Inginer de hardware pentru testare, documentare si suport tehnic, potrivit direct cu masurarile si testarea echipamentelor electronice la nivel de intrare."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3357573",
-    "title": "INGINER ELECTRONIST TRANSPORTURI, TELECOMUNICATII",
-    "company": "HALLIBURTON ENERGY SERVICES ROMANIA SRL",
-    "location": [
-      "Bucuresti sectorul 1, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:05:33.648Z",
-    "status": "scraped",
-    "tags": [
-      "electronica aplicata",
-      "telecomunicatii"
-    ],
-    "matchPercentage": 78,
-    "reason": "Inginer electronist pentru sisteme electronice si echipamente de comunicatii, fara experienta necesara, potrivit cu electronica si telecomunicatiile desi presupune lucru la amplasamente."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/internship-automatizari-realizare-te",
-    "title": "Internship Automatizări &amp; Realizare TE",
-    "company": "LAMI ING EUR SRL",
-    "location": [
-      "Strada Veveritei 13a, Urseni, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:06:36.430Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare circuite",
-      "embedded"
-    ],
-    "matchPercentage": 75,
-    "reason": "Internship în automatizări și realizare scheme tehnice (TE), potrivit ca nivel și apropiat de domeniul electronică/embedded."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-software-industrial-plc-scada-4",
-    "title": "Inginer Software industrial (PLC &amp; SCADA)",
-    "company": "VERDOM AUTOMATION S.R.L.",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:09:04.898Z",
-    "status": "scraped",
-    "tags": [
-      "reglare si control",
-      "programare C/C++"
-    ],
-    "matchPercentage": 72,
-    "reason": "PLC si SCADA folosesc direct programarea si elementele de reglare/control embedded, desi domeniul e de automatizare industriala, nu pur electronica."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/tehnician-echipamente-de-testare/1990419",
-    "title": "Tehnician Echipamente de Testare - 516708",
-    "company": "SIEMENS SRL",
-    "location": [
-      "Sibiu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:57:51.653Z",
-    "status": "scraped",
-    "tags": [
-      "masuratori electronice",
-      "electronica aplicata"
-    ],
-    "matchPercentage": 72,
-    "reason": "Tehnician de echipamente de testare intr-o fabrica de electronica, nivel de intrare cu dorinta de invatare, potrivit cu masurarile si cunostintele de electronica."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3395745",
-    "title": "TEHNICIAN ELECTRONICA",
-    "company": "EUROPANELS SMART SRL",
-    "location": [
-      "Municipiul botosani, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T17:04:12.076Z",
-    "status": "scraped",
-    "tags": [
-      "circuite electronice",
-      "sisteme embedded"
-    ],
-    "matchPercentage": 70,
-    "reason": "Lucru cu sisteme electronice de supraveghere, alarmare si control acces, nivel sub 3 ani experienta, potrivit pentru un tehnician electronica la inceput de cariera."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3366286",
-    "title": "TEHNICIAN ELECTRONICA",
-    "company": "BIT 2 BIT SOFT SRL",
-    "location": [
-      "Bucuresti sectorul 2, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T17:04:49.356Z",
+    "date": "2026-10-07T15:24:46.550Z",
     "status": "scraped",
     "tags": [
       "simulare si masuratori",
-      "proiectare circuite"
+      "elemente de testare"
     ],
-    "matchPercentage": 68,
-    "reason": "Postul fara experienta implica scheme electronice, aparate de masura si diagnosticarea circuitelor, direct relevante pentru profilul tau."
+    "matchPercentage": 76,
+    "reason": "Internship în laborator REL (Reliability) cu măsurători și testare pe produse electronice auto, relevant pentru măsurători și testare."
   },
   {
-    "url": "https://meteocontrol.jobs.personio.de/job/2145594?language=en%3Flanguage%3D&amp;display=en",
-    "title": "OT Security Engineer (all genders)",
-    "company": "METEOCONTROL ROMANIA S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-telecomunicatii-205",
+    "title": "Tehnician telecomunicatii",
+    "company": "LIVETEL SRL",
+    "location": [
+      "Cluj-Napoca,Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:26:37.781Z",
+    "status": "scraped",
+    "tags": [
+      "telecomunicatii",
+      "retele de calculatoare"
+    ],
+    "matchPercentage": 75,
+    "reason": "Tehnician telecomunicatii - domeniu de specialitate direct (retele, transmisii de date, comunicatii), nivel de intrare."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-telecomunicatii-204",
+    "title": "Tehnician telecomunicații",
+    "company": "COAXIAL TABLE S.R.L.",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:21:17.131Z",
+    "status": "scraped",
+    "tags": [
+      "protocoale de comunicatii",
+      "retele de calculatoare"
+    ],
+    "matchPercentage": 72,
+    "reason": "Tehnician telecomunicatii intr-un domeniu acoperit de planul de invatamant, nivel de tehnician entry-level."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271852/VOIS-Romania/IP-LAN-Design-Engineer",
+    "title": "IP LAN Design Engineer",
+    "company": "VOIS MANAGEMENT S.R.L.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:25:10.843Z",
+    "status": "scraped",
+    "tags": [
+      "retele de calculatoare",
+      "protocoale"
+    ],
+    "matchPercentage": 70,
+    "reason": "Proiectarea de retele IP/LAN se potriveste cu competentele de retele, comutare/rutare si protocoale, desi cerinta de 1-5 ani experienta il incadreaza la limita superioara a nivelului junior/mid."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/testare-banc-pwt-titu",
+    "title": "Testare banc PWT - Titu",
+    "company": "HYDROSERV AG SRL",
+    "location": [
+      "Titu, Romania,București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:13:58.805Z",
+    "status": "scraped",
+    "tags": [
+      "achizitii de date",
+      "simulare si masuratori"
+    ],
+    "matchPercentage": 70,
+    "reason": "Testare de bancuri de incercare (test benches) - implica achizitii de date, instrumentatie si masuratori, domeniu foarte apropiat de profil."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-telecomunicatii-germania/1625",
+    "title": "Tehnician Telecomunicații - Germania",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
       "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:08:55.464Z",
+    "date": "2026-10-07T15:19:24.670Z",
     "status": "scraped",
     "tags": [
-      "securitate cibernetică",
-      "embedded systems"
+      "protocoale de comunicatii",
+      "retele de calculatoare"
     ],
-    "matchPercentage": 65,
-    "reason": "Securitate OT pentru sisteme industriale - relevant parțial (securitate cibernetică + embedded)."
+    "matchPercentage": 70,
+    "reason": "Tehnician telecomunicatii, domeniu relevant pentru competentele de retele si comunicatii, nivel potrivit."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/suport-tehnic-masuratori-si-proiectare",
-    "title": "Suport Tehnic–Măsurători și Proiectare",
-    "company": "GLASSPRO TERM S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-cablare-structurata-curenti-slabi",
+    "title": "Tehnician cablare structurata (curenti slabi)",
+    "company": "MAJARO INTERNAŢIONAL SRL",
     "location": [
-      "Manolache, Romania"
+      "Oradea, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:02:46.871Z",
+    "date": "2026-10-07T15:27:57.217Z",
     "status": "scraped",
     "tags": [
-      "masuratori",
-      "proiectare circuite"
+      "retele de calculatoare",
+      "protocoale de comunicatii"
     ],
-    "matchPercentage": 65,
-    "reason": "Titlul indica masuratori si proiectare tehnica, domeniu relevant pentru competentele de masuratori si proiectare, desi descrierea este prea redusa pentru o potrivire mai buna."
+    "matchPercentage": 70,
+    "reason": "Cablare structurata si curenti slabi se incadreaza in implementarea retelelor de calculatoare, nivel entry."
   },
   {
-    "url": "https://multijobs.ro/job/electrical-design-engineer-bucharest-area/132",
-    "title": "Electrical Design Engineer – Bucharest Area",
-    "company": "ACE RECRUIT S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-montor-telecomunicatii-5",
+    "title": "Tehnician/montor telecomunicații",
+    "company": "RADTELEKOM CONNECTIONS SRL",
     "location": [
-      "Bucuresti, Romania"
+      "Dortmund, Germania, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:06:42.350Z",
+    "date": "2026-10-07T15:26:09.188Z",
     "status": "scraped",
     "tags": [
-      "proiectare circuite",
-      "dimensionare circuite"
+      "telecomunicatii",
+      "retele de calculatoare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Tehnician/montor telecomunicatii - domeniu de profil (retele si comunicatii), desi sarcinile sunt mai mult de instalare decat de proiectare."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/retrasib/16544/inginer-proiectare-electrica-fisa-de-calcul",
+    "title": "Inginer proiectare electrica- parte activa",
+    "company": "RETRASIB S.R.L.",
+    "location": [
+      "Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:26:45.693Z",
+    "status": "scraped",
+    "tags": [
+      "electronica de putere",
+      "surse de alimentare"
+    ],
+    "matchPercentage": 66,
+    "reason": "Proiectare electrică cu calcul și modelare a infășurărilor pentru transformatoare, relevant parțial pentru electronică de putere și surse de alimentare."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-instalare-echipamente-telecomunicatii-fibra-optica/5091",
+    "title": "Tehnician instalare echipamente telecomunicații / fibră optică",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:19:45.907Z",
+    "status": "scraped",
+    "tags": [
+      "protocoale de comunicatii",
+      "retele de calculatoare"
+    ],
+    "matchPercentage": 66,
+    "reason": "Instalare echipamente telecom/fibra optica intra in domeniul comunicatiilor, dar este mai mult munca de teren decat proiectare."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/incepe-ti-cariera-in-industria-electronica-1",
+    "title": "Începe-ți cariera în industria electronică!",
+    "company": "FLASHNET S.A.",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:19:16.686Z",
+    "status": "scraped",
+    "tags": [],
+    "matchPercentage": 65,
+    "reason": "Rol de început de carieră în industria electronică, potrivit ca nivel, dar descrierea jobului este prea sumară pentru o potrivire directă."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/inginer-testare-tablouri-electrice-j6w8vg",
+    "title": "Inginer Testare Tablouri Electrice",
+    "company": "EEKELS ROMANIA SRL",
+    "location": [
+      "Galati, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:13:27.987Z",
+    "status": "scraped",
+    "tags": [
+      "electronica de putere",
+      "simulare si masuratori"
     ],
     "matchPercentage": 65,
-    "reason": "Proiectare electrica/engineering este relevanta pentru competentele de proiectare de circuite si dimensionare, dar descrierea lipsa nu permite confirmarea nivelului junior."
+    "reason": "Inginer de testare a tablourilor electrice cu teste dielectrice, de protectii si functionale - foloseste competentele de electronica de putere si masuratori."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18146/tehnician-testare-electrica",
+    "title": "Tehnician - Testare Electrica",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Ghimbav, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:12:58.103Z",
+    "status": "scraped",
+    "tags": [
+      "simulare si masuratori",
+      "inginerie electronica"
+    ],
+    "matchPercentage": 65,
+    "reason": "Tehnician de testare electrica in industrie - potrivit cu competentele de simulare si masuratori si electronica aplicata, nivel entry."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271153/AUMOVIO-Romania/Internship-for-Software-Test-Engineer-(Iasi)",
+    "title": "Internship for Software Test Engineer (Iasi)",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:24:46.550Z",
+    "status": "scraped",
+    "tags": [
+      "elemente de testare",
+      "embedded auto"
+    ],
+    "matchPercentage": 65,
+    "reason": "Testare software pentru sisteme electronice auto; nivelul e potrivit, dar domeniul e mai degrabă software test decât hardware."
+  },
+  {
+    "url": "https://jobs.zollner.ro/jobposting/200cf519cd47080273854a74b5851a118191051b0",
+    "title": "Tehnician electronică",
+    "company": "ZES ZOLLNER ELECTRONIC SRL",
+    "location": [
+      "Satu Mare, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:12:53.585Z",
+    "status": "scraped",
+    "tags": [
+      "Circuite electronice",
+      "Simulare și măsurători"
+    ],
+    "matchPercentage": 64,
+    "reason": "Testarea și repararea plăcilor electronice folosește direct cunoștințele de circuite și măsurători, la nivel tehnic de intrare."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
+    "title": "Tehnician analiza calitatii (4 schimburi - Electronica) F/M - Marquardt",
+    "company": "HIPO COMPANY GRUP SRL",
+    "location": [
+      "Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:19:06.410Z",
+    "status": "scraped",
+    "tags": [
+      "Simulare și măsurători",
+      "Circuite electronice"
+    ],
+    "matchPercentage": 62,
+    "reason": "Analiza calității în electronică presupune măsurători și verificarea circuitelor, fiind un rol entry până la junior."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-testare-constructii",
+    "title": "Inginer proiectare/testare energetica constructii",
+    "company": "ZECAPH CONSULT SRL",
+    "location": [
+      "Str. 1 Decembrie 1918, Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:15:30.111Z",
+    "status": "scraped",
+    "tags": [
+      "surse de alimentare",
+      "simulare si masuratori"
+    ],
+    "matchPercentage": 62,
+    "reason": "Inginerie de proiectare si testare energetica - foloseste direct competentele de analiza, dimensionare si masuratori electronice/energetice, la nivel de intrare."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270222/AUMOVIO-Romania/Internship-for-SMT-&amp;-Maintenance-Team---Manufacturing-TM",
+    "title": "Internship for SMT &amp; Maintenance Team - Manufacturing TM",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:22:29.278Z",
+    "status": "scraped",
+    "tags": [
+      "scheme PCB",
+      "electronică aplicată"
+    ],
+    "matchPercentage": 62,
+    "reason": "Menținere linii SMT (montaj suprafață PCB) - tangențial cu electronică, dar mai degrabă producție/mentenanță decât proiectare."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3392132",
@@ -281,60 +465,25 @@
     "salary": null,
     "date": "2026-10-06T14:49:54.390Z",
     "status": "scraped",
+    "tags": [],
+    "matchPercentage": 60,
+    "reason": "Tehnician electronică cu experiență minimă, în domeniu, dar descrierea sarcinilor este insuficient de clară."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/tehnician-testare-finala-si-calitate-hvac-end-of-line-tester-italia_padova_5275/",
+    "title": "Tehnician Testare Finală și Calitate HVAC (End of Line Tester). Italia",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Padova, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:14:51.654Z",
+    "status": "scraped",
     "tags": [
+      "testare automata",
       "simulare si masuratori"
     ],
-    "matchPercentage": 64,
-    "reason": "Tehnician in electronica foloseste competente de baza in circuite si masuratori, dar este mai degraba practic decat de proiectare."
-  },
-  {
-    "url": "https://multijobs.ro/job/tehnician-in-domeniul-sistemelor-de-securitate/4372",
-    "title": "Tehnician in domeniul sistemelor de securitate",
-    "company": "AL.SE.RO. IMPEX SRL",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:09:24.388Z",
-    "status": "scraped",
-    "tags": [
-      "retele de calculatoare",
-      "electronica aplicata"
-    ],
-    "matchPercentage": 62,
-    "reason": "Tehnician de sisteme electronice de securitate (CCTV, alarme, control acces) care foloseste electronica si retele, la nivel de intrare."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/administrator-de-retea/1990328",
-    "title": "Administrator de Retea",
-    "company": "SKILL DESIGN &amp; CONSTRUCT S.R.L.",
-    "location": [
-      "Bacau, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:09:08.544Z",
-    "status": "scraped",
-    "tags": [
-      "rețele de calculatoare"
-    ],
     "matchPercentage": 60,
-    "reason": "Administrare rețele - potrivire parțială cu rețele de calculatoare."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/technician-digital-signage-3",
-    "title": "Technician Digital Signage",
-    "company": "BRIGHT RESOURCES S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:08:59.347Z",
-    "status": "scraped",
-    "tags": [
-      "electronica aplicata",
-      "retele de calculatoare"
-    ],
-    "matchPercentage": 60,
-    "reason": "Mentenanta si configurare echipamente digitale electronice de afisaj, o sarcina tehnica partial relevanta pentru nivel de intrare."
+    "reason": "Testare electrica functional/insulation la final de linie - relevanta pentru competentele de masuratori, teste si instrumentatie, la nivel de tehnician entry."
   }
 ]
