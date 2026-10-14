@@ -1,5 +1,22 @@
 [
   {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/analog-mixed-signal-design-engineer-mfd-a-ot-aess/99344",
+    "title": "Analog-Mixed Signal Design Engineer (m/f/d) - A OT AESS",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-13T16:03:40.358Z",
+    "status": "scraped",
+    "tags": [
+      "circuite integrate",
+      "proiectare hardware"
+    ],
+    "matchPercentage": 92,
+    "reason": "Proiectare circuite integrate analogice si mixed-signal, nivel potrivit pentru absolvent."
+  },
+  {
     "url": "https://www.bestjobs.eu/loc-de-munca/early-careers-rotational-program-fpga-engineer-engineer",
     "title": "Early Careers: Rotational Program - FPGA Engineer Engineer",
     "company": "ZINNEC SOLUTIONS S.R.L.",
@@ -11,61 +28,27 @@
     "status": "scraped",
     "tags": [
       "FPGA",
-      "VHDL/Verilog"
-    ],
-    "matchPercentage": 92,
-    "reason": "Program entry-level rotativ de inginer FPGA, potrivire directa pe proiectare FPGA implementare."
-  },
-  {
-    "url": "https://jobs.bosch.com/en/job/REF289650F-embedded-ai-software-engineer-mid-level",
-    "title": "Embedded AI Software Engineer Mid-Level",
-    "company": "BOSCH REXROTH S.R.L.",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:27:20.626Z",
-    "status": "scraped",
-    "tags": [
-      "embedded",
-      "C/C++"
+      "procesare digitala"
     ],
     "matchPercentage": 90,
-    "reason": "Inginer software embedded mid-level cu AI, potrivire directa pe embedded systems si programare C/C++."
+    "reason": "Program early-careers de inginer FPGA, potrivire directa de domeniu si nivel."
   },
   {
-    "url": "https://jobs.zollner.ro/jobposting/b6b83168c8d191aadedc69f020f5f0c82e6df9ee0",
-    "title": "Inginer sisteme de testare",
-    "company": "ZES ZOLLNER ELECTRONIC SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3235072",
+    "title": "INGINER ELECTRONIST TRANSPORTURI, TELECOMUNICATII",
+    "company": "INFOPRO DIGITAL AUTOMOTIVE SOCIETATE CU RASPUNDERE LIMITATĂ",
     "location": [
-      "Satu Mare, Romania"
+      "Municipiul brasov, Romania"
     ],
     "salary": null,
-    "date": "2026-10-12T17:29:57.227Z",
+    "date": "2026-10-13T15:50:52.867Z",
     "status": "scraped",
     "tags": [
-      "testare automata",
-      "electronica"
+      "electronica",
+      "telecomunicatii"
     ],
-    "matchPercentage": 82,
-    "reason": "Inginer de sisteme de testare pentru placi electronice, cu programe de test si analiza defectelor, direct pe competentele tale."
-  },
-  {
-    "url": "https://multijobs.ro/job/inginer-electronica-electrotehnica/2390",
-    "title": "Inginer electronica – electrotehnica",
-    "company": "EE TEST SA",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T14:53:31.799Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare circuite",
-      "electrotehnica"
-    ],
-    "matchPercentage": 78,
-    "reason": "Inginer electronica/electrotehnica, potrivire directa pe domeniu si nivel entry/junior."
+    "matchPercentage": 85,
+    "reason": "Inginer electronist in transporturi si telecomunicatii foloseste direct competente de electronica, telecomunicatii si electronica auto, la nivel entry-level."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/incepe-ti-cariera-in-industria-electronica-1",
@@ -75,14 +58,48 @@
       "Brașov, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:00:18.689Z",
+    "date": "2026-10-13T15:46:31.753Z",
     "status": "scraped",
     "tags": [
       "electronica",
-      "embedded"
+      "circuite"
     ],
     "matchPercentage": 75,
-    "reason": "Program de start cariera in industria electronica, potrivire directa de domeniu si nivel entry."
+    "reason": "Program de start de carieră în industria electronică, nivel entry potrivit."
+  },
+  {
+    "url": "https://jobs.keysight.com/external/jobs/52196",
+    "title": "Senior/Principal FPGA Design Engineer",
+    "company": "KEYSIGHT TECHNOLOGIES RO SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-13T15:37:53.187Z",
+    "status": "scraped",
+    "tags": [
+      "FPGA",
+      "VHDL/Verilog"
+    ],
+    "matchPercentage": 74,
+    "reason": "Proiectare FPGA, domeniu direct, iar postul accepta explicit si candidati junior."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/tehnician-echipamente-de-testare/1990419",
+    "title": "Tehnician Echipamente de Testare - 516708",
+    "company": "SIEMENS SRL",
+    "location": [
+      "Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-13T15:56:08.925Z",
+    "status": "scraped",
+    "tags": [
+      "testare automata",
+      "electronica"
+    ],
+    "matchPercentage": 72,
+    "reason": "Tehnician echipamente de testare care foloseste cunostinte de electronica, programare si testare, la nivel de inceput."
   },
   {
     "url": "https://jobs.zollner.ro/jobposting/200cf519cd47080273854a74b5851a118191051b0",
@@ -95,45 +112,164 @@
     "date": "2026-10-12T17:29:57.227Z",
     "status": "scraped",
     "tags": [
-      "depanare circuite",
-      "masuratori electronice"
+      "electronica",
+      "testare"
     ],
-    "matchPercentage": 72,
-    "reason": "Tehnician electronica EMS pentru testarea si repararea placilor, domeniu direct, minim 2 ani experienta."
+    "matchPercentage": 70,
+    "reason": "Testare și reparare plăci electronice în producție EMS, experiență minimă 2 ani."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3366286",
-    "title": "TEHNICIAN ELECTRONICA",
-    "company": "BIT 2 BIT SOFT SRL",
-    "location": [
-      "Bucuresti sectorul 2, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T14:57:25.948Z",
-    "status": "scraped",
-    "tags": [
-      "circuite electronice",
-      "aparate de masura"
-    ],
-    "matchPercentage": 72,
-    "reason": "Tehnician electronica pe microcircuite si placi, fara experienta, foloseste direct competente de masurare si diagnoza."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3394944",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3402733",
     "title": "INGINER ELECTRONIST TRANSPORTURI, TELECOMUNICATII",
-    "company": "PROHUMAN APT RESOURCES S.R.L.",
+    "company": "SIMEA SIBIU SRL",
     "location": [
-      "Bucuresti sectorul 1, Romania"
+      "Sibiu, Romania"
     ],
     "salary": null,
-    "date": "2026-10-12T17:32:25.326Z",
+    "date": "2026-10-13T16:04:35.798Z",
     "status": "scraped",
     "tags": [
       "electronica",
       "telecomunicatii"
     ],
     "matchPercentage": 70,
-    "reason": "Inginer electronist pe transporturi si telecomunicatii, domeniu direct, desi cere 3-5 ani experienta."
+    "reason": "Inginer electronist transporturi si telecomunicatii, domeniu direct, dar cere 3-5 ani experienta."
+  },
+  {
+    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF98105R-p-b2676d2a46c230dbb1f2cdf117a51f14/mechatronics-engineer-sustainable-infrastructure-tires",
+    "title": "Mechatronics Engineer Sustainable Infrastructure - Tires",
+    "company": "CONTINENTAL SRL",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-13T16:06:45.031Z",
+    "status": "scraped",
+    "tags": [
+      "achizitii de date",
+      "reglare si control"
+    ],
+    "matchPercentage": 68,
+    "reason": "Automatizare industrială cu PLC/SCADA, achiziții de date și rețele de comunicație industrială se potrivesc cu embedded și instrumentația."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/tehnician-service-drone/1986331",
+    "title": "Tehnician Service Drone",
+    "company": "STEFI SKILL BY STEFANIA POPESCU S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-13T16:06:26.681Z",
+    "status": "scraped",
+    "tags": [
+      "embedded",
+      "senzori"
+    ],
+    "matchPercentage": 68,
+    "reason": "Tehnician service drone implica electronica, embedded, senzori si radiocomunicatii, potrivit la nivel entry-level."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3410924",
+    "title": "TEHNICIAN ELECTRONICA",
+    "company": "SYNTRONIC PRODUCTION AND AFTERMARKET SERVICES S.R.L.",
+    "location": [
+      "Ghiroda, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-13T15:47:13.695Z",
+    "status": "scraped",
+    "tags": [
+      "electronica",
+      "testare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Testare, instalare și reparare echipamente electronice, sub 3 ani experiență."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/222109/JumpStart---A-GenZ-Career-Hub/Programe-de-internship-trainee-sau-joburi-entry-level-in-Inginerie",
+    "title": "Programe de internship trainee sau joburi entry-level in Inginerie",
+    "company": "JUMP START SRL",
+    "location": [
+      "Bucuresti,Ploiesti,Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-13T16:04:52.983Z",
+    "status": "scraped",
+    "tags": [
+      "inginerie",
+      "embedded"
+    ],
+    "matchPercentage": 65,
+    "reason": "Hub de internshipuri si joburi entry-level in inginerie poate include pozitii pe profilul tau electronic/embedded."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271769/Siemens-Energy/Industrial-Cyber-Security-Engineer---Automation-Systems",
+    "title": "Industrial Cyber Security Engineer - Automation Systems",
+    "company": "SIEMENS ENERGY S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-13T16:06:31.292Z",
+    "status": "scraped",
+    "tags": [
+      "securitate cibernetica",
+      "reglare si control"
+    ],
+    "matchPercentage": 64,
+    "reason": "Securitate cibernetică pentru sisteme de automatizare combină competențele tale de securitate și control."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-robotica-mecatronica",
+    "title": "Tehnician Robotică &amp; Mecatronică",
+    "company": "LEMAN INDUSTRIE SRL",
+    "location": [
+      "CALEA BUZIASULUI NR 11I, Timișoara, Judetul Timis, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-13T16:06:29.829Z",
+    "status": "scraped",
+    "tags": [
+      "embedded",
+      "control"
+    ],
+    "matchPercentage": 64,
+    "reason": "Tehnician robotica si mecatronica foloseste partial competente de embedded, senzori si reglare/control, la nivel de inceput."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271644/Siemens-Energy/Cyber-Security-Engineer-in-Projects",
+    "title": "Cyber Security Engineer in Projects",
+    "company": "SIEMENS ENERGY S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-13T16:06:31.292Z",
+    "status": "scraped",
+    "tags": [
+      "securitate cibernetica",
+      "protocoale"
+    ],
+    "matchPercentage": 62,
+    "reason": "Securitate cibernetică în proiecte se aliniază competenței tale de securitate cibernetică și protocoale."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/testare-banc-pwt-titu",
+    "title": "Testare banc PWT - Titu",
+    "company": "HYDROSERV AG SRL",
+    "location": [
+      "Titu, Romania,București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-13T15:53:20.130Z",
+    "status": "scraped",
+    "tags": [
+      "masuratori",
+      "sisteme auto"
+    ],
+    "matchPercentage": 62,
+    "reason": "Testare pe banc pentru aplicatii auto, potrivire partiala pe masuratori si electronica auto."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3397093",
@@ -143,115 +279,14 @@
       "Chiajna, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T14:47:40.678Z",
+    "date": "2026-10-13T15:49:17.145Z",
     "status": "scraped",
     "tags": [
       "electronica",
       "masuratori"
     ],
-    "matchPercentage": 68,
-    "reason": "Post de tehnician electronica fara experienta, potrivit pentru incepatori din domeniu."
-  },
-  {
-    "url": "https://meteocontrol.jobs.personio.de/job/2821460?language=en%3Flanguage%3D&amp;display=en",
-    "title": "Software Developer (all genders)",
-    "company": "METEOCONTROL ROMANIA S.R.L.",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:33:35.942Z",
-    "status": "scraped",
-    "tags": [
-      "embedded",
-      "protocoale comunicatie"
-    ],
-    "matchPercentage": 66,
-    "reason": "Dezvoltare comunicatie cu dispozitive si protocoale seriale/Modbus, relevante pentru embedded si achizitii de date."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3392132",
-    "title": "TEHNICIAN ELECTRONICA",
-    "company": "BLUESPACE TECHNOLOGY S.A.",
-    "location": [
-      "Oras bragadiru, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:27:51.727Z",
-    "status": "scraped",
-    "tags": [
-      "electronica"
-    ],
-    "matchPercentage": 65,
-    "reason": "Tehnician electronica, sub 3 ani experienta, potrivire directa pe domeniu."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3364956",
-    "title": "TEHNICIAN RETELE DE TELECOMUNICATII",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Bucuresti sectorul 1, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:32:25.326Z",
-    "status": "scraped",
-    "tags": [
-      "telecomunicatii",
-      "retele"
-    ],
-    "matchPercentage": 65,
-    "reason": "Tehnician retele de telecomunicatii, nivel entry, se potriveste partial pe competentele de telecomunicatii si retele."
-  },
-  {
-    "url": "https://multijobs.ro/job/tehnician-electronist/412",
-    "title": "tehnician electronist",
-    "company": "ASTI INTERNATIONAL SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:33:49.967Z",
-    "status": "scraped",
-    "tags": [
-      "electronica",
-      "circuite electronice"
-    ],
-    "matchPercentage": 65,
-    "reason": "Tehnician electronist cu activități directe de electronică, potrivit ca nivel de intrare."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/angajam-tehnicieni-ingineri-sisteme-de-securitate-sibiu/",
-    "title": "tehnician/Inginer sisteme de securitate",
-    "company": "SC ALPACCESS WIND TURBINE SERVICES  SRL",
-    "location": [
-      "Sibiu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:34:06.113Z",
-    "status": "scraped",
-    "tags": [
-      "electronica aplicata",
-      "masuratori electronice"
-    ],
-    "matchPercentage": 62,
-    "reason": "Tehnician/inginer sisteme de securitate electronice, instalare si configurare echipamente, domeniu adiacent si nivel entry."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3193833",
-    "title": "TEHNICIAN ELECTRONICA",
-    "company": "DHELECTRIC HOME S.R.L.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:30:56.145Z",
-    "status": "scraped",
-    "tags": [
-      "electronica",
-      "depanare"
-    ],
-    "matchPercentage": 62,
-    "reason": "Tehnician electronica, testare si reparare, domeniu direct dar cere 3-5 ani experienta."
+    "matchPercentage": 60,
+    "reason": "Tehnician electronică fără experiență cerută, potrivire parțială pe electronică și măsurători."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
@@ -261,163 +296,47 @@
       "Sibiu, Romania"
     ],
     "salary": null,
-    "date": "2026-10-12T17:30:00.544Z",
+    "date": "2026-10-13T15:36:40.822Z",
     "status": "scraped",
     "tags": [
-      "electronica",
-      "controlul calitatii"
-    ],
-    "matchPercentage": 62,
-    "reason": "Tehnician analiza calitate in electronica, potrivire de domeniu si nivel entry/junior."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3395745",
-    "title": "TEHNICIAN ELECTRONICA",
-    "company": "EUROPANELS SMART SRL",
-    "location": [
-      "Municipiul botosani, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:04:47.298Z",
-    "status": "scraped",
-    "tags": [
-      "electronica",
-      "senzori si traductoare"
-    ],
-    "matchPercentage": 62,
-    "reason": "Tehnician electronica pentru sisteme video/alarma/acces, domeniu adiacent si sub 3 ani experienta."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/tehnician-telecomunicatii",
-    "title": "Tehnician telecomunicatii",
-    "company": "TELECOMUNICATII C.F.R. SA",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:31:29.310Z",
-    "status": "scraped",
-    "tags": [
-      "telecomunicatii"
-    ],
-    "matchPercentage": 62,
-    "reason": "Tehnician telecomunicatii in teren, nivel entry, se leaga partial de competentele de telecomunicatii."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/internship-cad",
-    "title": "Internship CAD",
-    "company": "CONTITECH FLUID AUTOMOTIVE ROMÂNIA SRL",
-    "location": [
-      "Timișoara, Romania,Carei, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:33:33.776Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "proiectare"
-    ],
-    "matchPercentage": 62,
-    "reason": "Internship de proiectare CAD intr-un context tehnic de inginerie, care valorifica competentele de CAD, dar orientat pe componente auto mai degraba decat pe electronica."
-  },
-  {
-    "url": "https://multijobs.ro/job/tehnician-electronica-reparatii-electrocasnice-mici/5675",
-    "title": "Tehnician electronica / reparatii electrocasnice mici",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:29:35.151Z",
-    "status": "scraped",
-    "tags": [
-      "electronica",
-      "depanare"
+      "masuratori",
+      "testare"
     ],
     "matchPercentage": 60,
-    "reason": "Tehnician electronica pentru reparatii aparate mici, foloseste competente de depanare electronica."
+    "reason": "Analiză calitate în electronică, implică testare/măsurători, potrivire parțială."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3414061",
-    "title": "TEHNICIAN ELECTRONICA",
-    "company": "BLUESPACE TECHNOLOGY S.A.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/jr-software-qa-engineer-1",
+    "title": "JR SOFTWARE QA ENGINEER",
+    "company": "EVOTRACKING SRL",
     "location": [
-      "Oras bragadiru, Romania"
+      "Ploiesti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-12T17:27:47.906Z",
+    "date": "2026-10-13T16:06:26.681Z",
     "status": "scraped",
     "tags": [
-      "electronica"
+      "inginerie software",
+      "testare automata"
     ],
     "matchPercentage": 60,
-    "reason": "Tehnician electronica cu studii superioare, domeniu direct dar cere 3-5 ani experienta."
+    "reason": "QA software junior folosește metode de dezvoltare software și elemente de testare automată la nivel potrivit."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-montor-telecomunicatii-5",
-    "title": "Tehnician/montor telecomunicații",
-    "company": "RADTELEKOM CONNECTIONS SRL",
+    "url": "https://www.jobradar24.ro/anunt/inginer-testare-tablouri-electrice-j6w8vg",
+    "title": "Inginer Testare Tablouri Electrice",
+    "company": "EEKELS ROMANIA SRL",
     "location": [
-      "Dortmund, Germania, Romania"
+      "Galati, Romania"
     ],
     "salary": null,
-    "date": "2026-10-12T17:32:07.438Z",
+    "date": "2026-10-13T15:51:39.407Z",
     "status": "scraped",
     "tags": [
-      "telecomunicatii"
+      "masuratori",
+      "electronica de putere"
     ],
     "matchPercentage": 60,
-    "reason": "Tehnician/montor telecomunicatii, nivel entry si domeniu telecom, potrivire partiala."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3145297",
-    "title": "MONTATOR-REGLOR, DEPANATOR APARATE ELECTRONICE, TELECOMUNICATII, RADIO",
-    "company": "VANDEWIELE ROMÂNIA S.R.L.",
-    "location": [
-      "Ghiroda, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:26:50.535Z",
-    "status": "scraped",
-    "tags": [
-      "electronica",
-      "depanare"
-    ],
-    "matchPercentage": 60,
-    "reason": "Depanare și reglaj aparate electronice/radio folosesc cunoștințe de electronică, dar e o poziție manuală de nivel scăzut."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/internship-it-8h-tires/101140",
-    "title": "Internship IT (8h) - Tires",
-    "company": "CONTINENTAL SRL",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:34:00.066Z",
-    "status": "scraped",
-    "tags": [
-      "retele",
-      "software"
-    ],
-    "matchPercentage": 60,
-    "reason": "Internship IT în echipa de infrastructură, parțial relevant pentru rețele de calculatoare și software."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/programator-delphi-mid-level-4",
-    "title": "Programator Delphi Mid-Level",
-    "company": "MAGISTER SOFTWARE SRL",
-    "location": [
-      "Strada Radu de la Afumati, București, Romania,Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:26:30.370Z",
-    "status": "scraped",
-    "tags": [
-      "dezvoltare software",
-      "programare"
-    ],
-    "matchPercentage": 60,
-    "reason": "Programare mid-level in Delphi, foloseste competentele de dezvoltare software, dar nu este specific electronicii."
+    "reason": "Inginer testare tablouri electrice, foloseste citirea schemelor si masuratori electrice, potrivire partiala."
   }
 ]
