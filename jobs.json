@@ -1,1 +1,178 @@
-[]
+[
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144767549-embedded-ai-software-engineer-mid-level",
+    "title": "Embedded AI Software Engineer Mid-Level",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-10-16T11:06:47.945Z",
+    "status": "scraped",
+    "tags": [
+      "Embedded si microcontrolere",
+      "Programare C/C++"
+    ],
+    "matchPercentage": 86,
+    "reason": "Embedded software cu AI pe platform hardware, care foloseste direct C/C++ si programare embedded; nivelul mid se incadreaza in criteriu."
+  },
+  {
+    "url": "https://career.luxoft.com/jobs/design-verification-engineer-data-fabric-systems-12815",
+    "title": "Design Verification Engineer - Data Fabric Systems",
+    "company": "LUXOFT PROFESSIONAL ROMANIA SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:29.123Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare FPGA",
+      "circuit integrate"
+    ],
+    "matchPercentage": 82,
+    "reason": "Verificare pre-silicon a procesoarelor digitale foloseste direct competentele de proiectare digitala si limbaje HDL, la nivel potrivit pentru junior/mid."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272914/Emerson/Internship-Drafter-(12-Months)",
+    "title": "Internship Drafter (12 Months)",
+    "company": "EMERSON SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:34.775Z",
+    "status": "scraped",
+    "tags": [
+      "tehnici CAD",
+      "grafica asistata"
+    ],
+    "matchPercentage": 70,
+    "reason": "Internship de drafter într-o companie de automatizări, care folosește direct competențele de tehnici CAD."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3418949",
+    "title": "INGINER DE SISTEM ÎN INFORMATICA",
+    "company": "AROBS TRANSILVANIA SOFTWARE S.A.",
+    "location": [
+      "CLUJ-NAPOCA"
+    ],
+    "salary": null,
+    "date": "2026-10-16T16:16:12.450Z",
+    "status": "scraped",
+    "tags": [
+      "C/C++",
+      "retele de calculatoare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Inginerie de sisteme IT la o companie software, potrivit pentru competentele de C/C++, embedded si retele, cu nivel sub 3 ani experienta."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/uCiwtcDTv0",
+    "title": "Tehnician Telecomunicatii",
+    "company": "DIRECT ONE SA",
+    "location": [
+      "Brașov"
+    ],
+    "salary": null,
+    "date": "2026-10-16T10:40:52Z",
+    "status": "scraped",
+    "tags": [
+      "telecomunicatii",
+      "retele de calculatoare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Instalarea, joncțiunea și măsurătorile pe fibră optică folosesc direct competențele de rețele/telecom la nivel junior-mid."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-retele-telecomunicatii/2493",
+    "title": "Tehnician Retele Telecomunicatii",
+    "company": "PRO CONECT SRL",
+    "location": [
+      "Suceava",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:20.926Z",
+    "status": "scraped",
+    "tags": [
+      "telecomunicatii",
+      "retele de calculatoare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Tehnician de rețele de telecomunicatii este un rol de intrare în domeniul telecom relevant pentru profil."
+  },
+  {
+    "url": "https://jobs.borgdesign.ro/#pos_2",
+    "title": "Junior Web Developer",
+    "company": "BORG DESIGN SRL",
+    "location": [
+      "București"
+    ],
+    "salary": null,
+    "date": "2026-10-16T16:19:11.117Z",
+    "status": "scraped",
+    "tags": [
+      "programare C/C++",
+      "tehnologii web"
+    ],
+    "matchPercentage": 62,
+    "reason": "Nivelul junior se potriveste si C#/OOP se bazeaza pe competentele tale de programare C/C++ si pe materii de tehnologii web din curricula."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-montor-telecomunicatii-5",
+    "title": "Tehnician/montor telecomunicații",
+    "company": "RADTELEKOM CONNECTIONS SRL",
+    "location": [
+      "Dortmund",
+      "Germania",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:29.123Z",
+    "status": "scraped",
+    "tags": [
+      "telecomunicatii",
+      "retele de calculatoare"
+    ],
+    "matchPercentage": 60,
+    "reason": "Montajul echipamentelor de telecomunicatii intră direct în domeniul telecom, la nivel de intrare."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271921/Societe-Generale-Global-Solution-Centre/Internship-Java-Software-Engineer",
+    "title": "Internship Java Software Engineer",
+    "company": "SOCIETE GENERALE GLOBAL SOLUTION CENTRE S.A.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:03.226Z",
+    "status": "scraped",
+    "tags": [
+      "programare",
+      "inginerie software"
+    ],
+    "matchPercentage": 60,
+    "reason": "Internship de dezvoltare software care se bazează direct pe competențele de programare și inginerie software."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271990/Societe-Generale-Global-Solution-Centre/Internship-C#-Developer",
+    "title": "Internship C# Developer",
+    "company": "SOCIETE GENERALE GLOBAL SOLUTION CENTRE S.A.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:03.226Z",
+    "status": "scraped",
+    "tags": [
+      "programare",
+      "inginerie software"
+    ],
+    "matchPercentage": 60,
+    "reason": "Internship de dezvoltare software care se bazează direct pe competențele de programare și inginerie software."
+  }
+]
