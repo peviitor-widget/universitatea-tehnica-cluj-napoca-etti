@@ -1,178 +1,345 @@
 [
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144767549-embedded-ai-software-engineer-mid-level",
-    "title": "Embedded AI Software Engineer Mid-Level",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://multijobs.ro/job/tehnician-retele-de-telecomunicatii/717",
+    "title": "Tehnician rețele de telecomunicații",
+    "company": "PHOENIX TELECOM &amp; MEDIA SERVICES SRL",
     "location": [
-      "Cluj-Napoca"
+      "Bucuresti",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T11:06:47.945Z",
+    "date": "2026-10-17T12:14:46.708Z",
     "status": "scraped",
     "tags": [
-      "Embedded si microcontrolere",
-      "Programare C/C++"
+      "telecomunicatii",
+      "retele calculatoare"
+    ],
+    "matchPercentage": 95,
+    "reason": "Tehnician retele telecom - direct relevant pentru telecomunicatii si retele."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-in-ingineria-telecomunicatiilor",
+    "title": "Tehnician in ingineria telecomunicațiilor",
+    "company": "TELECOMUNICATII C.F.R. SA",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:11:37.535Z",
+    "status": "scraped",
+    "tags": [
+      "telecomunicatii",
+      "retele calculatoare"
+    ],
+    "matchPercentage": 95,
+    "reason": "Rol tehnic in telecomunicatii, corespunde specializarii."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-curenti-slabi-si-telecomunicatii/2052",
+    "title": "Tehnician Curenți Slabi și Telecomunicații",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:05:37.659Z",
+    "status": "scraped",
+    "tags": [
+      "telecomunicatii",
+      "retele calculatoare"
+    ],
+    "matchPercentage": 95,
+    "reason": "Tehnician curenti slabi/telecom - direct relevant."
+  },
+  {
+    "url": "https://jobs.rinf.tech/231987",
+    "title": "Software Engineer RTOS",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti",
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:19.407Z",
+    "status": "scraped",
+    "tags": [
+      "embedded systems",
+      "programare C/C++"
+    ],
+    "matchPercentage": 90,
+    "reason": "Domeniul embedded cu RTOS se potriveste direct competentelor de microcontrolere, programare C/C++ si sisteme embedded, la nivel entry/mid."
+  },
+  {
+    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/muncitori-productie-depozit-logistica/anunt/tehnicieni-electronisti/fd4dhii7107778d3df3ff6f4ig5e5g20.html",
+    "title": "Tehnicieni electronisti",
+    "company": "PUBLI24 DIGITAL S.R.L.",
+    "location": [
+      "Arad",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:41.695Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare circuite",
+      "simulare și măsurători"
+    ],
+    "matchPercentage": 90,
+    "reason": "Tehnician electronist - se potrivește direct cu competențele de electronică aplicată."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/inginer-testare-tablouri-electrice-j6w8vg",
+    "title": "Inginer Testare Tablouri Electrice",
+    "company": "EEKELS ROMANIA SRL",
+    "location": [
+      "Galati",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:06:09.665Z",
+    "status": "scraped",
+    "tags": [
+      "masuratori",
+      "testare automata"
+    ],
+    "matchPercentage": 90,
+    "reason": "Testarea tablourilor electrice corespunde masuratorilor si testarii circuitelor."
+  },
+  {
+    "url": "https://dreamjobs.ro/ro/job/today-workforce/tehnician-electrician-fotovoltaic-1",
+    "title": "Tehnician Electrician Fotovoltaic",
+    "company": "TODAY WORKFORCE S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:46.090Z",
+    "status": "scraped",
+    "tags": [
+      "electronica putere",
+      "masuratori"
+    ],
+    "matchPercentage": 90,
+    "reason": "Mentenanta/diagnostic sisteme fotovoltaice - relevant pentru electronica de putere."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Automatist-Tehnician-automatizări-Craiova",
+    "title": "Automatist (Tehnician automatist)",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:35.322Z",
+    "status": "scraped",
+    "tags": [
+      "embedded systems",
+      "automatisme"
+    ],
+    "matchPercentage": 90,
+    "reason": "Automatist cu PLC - corespunde embedded systems si automatizari industriale."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/technical-internship-at-aumovio-tm/96894",
+    "title": "Technical Internship at AUMOVIO (TM)",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:49.268Z",
+    "status": "scraped",
+    "tags": [
+      "embedded systems",
+      "proiectare hardware"
+    ],
+    "matchPercentage": 90,
+    "reason": "Internship tehnic (HW/SW, testare, validare) - relevant pentru embedded/hardware."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/zes-zollner-electronic/10572/undefined",
+    "title": "Inginer sisteme de testare",
+    "company": "ZES ZOLLNER ELECTRONIC SRL",
+    "location": [
+      "Satu Mare",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:29.752Z",
+    "status": "scraped",
+    "tags": [
+      "testare și măsurări",
+      "proiectare circuite PCB"
+    ],
+    "matchPercentage": 88,
+    "reason": "Inginer de sisteme de testare: programe de testare, analiza plăcilor și implicare în faza de proiect, direct în zona de electronică și testare."
+  },
+  {
+    "url": "https://jobs.zollner.ro/jobposting/b6b83168c8d191aadedc69f020f5f0c82e6df9ee0",
+    "title": "Inginer sisteme de testare",
+    "company": "ZES ZOLLNER ELECTRONIC SRL",
+    "location": [
+      "Satu Mare",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:35.934Z",
+    "status": "scraped",
+    "tags": [
+      "simulare si masuratori",
+      "elemente de testare"
     ],
     "matchPercentage": 86,
-    "reason": "Embedded software cu AI pe platform hardware, care foloseste direct C/C++ si programare embedded; nivelul mid se incadreaza in criteriu."
+    "reason": "Elaborarea programelor de testare, analiza plăcilor electronice și identificarea defectelor din circuit se potrivesc direct cu competențele de simulare și măsurători în electronică și testare automată."
   },
   {
-    "url": "https://career.luxoft.com/jobs/design-verification-engineer-data-fabric-systems-12815",
-    "title": "Design Verification Engineer - Data Fabric Systems",
-    "company": "LUXOFT PROFESSIONAL ROMANIA SRL",
+    "url": "https://jobs.rinf.tech/231989",
+    "title": "Embedded AI/ML Platform Integration Engineer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:29.123Z",
+    "date": "2026-10-17T12:22:19.407Z",
     "status": "scraped",
     "tags": [
-      "proiectare FPGA",
-      "circuit integrate"
+      "embedded systems",
+      "Python"
+    ],
+    "matchPercentage": 85,
+    "reason": "Pozitia de Embedded AI/ML Platform Integration utilizeaza direct embedded systems si programare, fiind relevanta pentru nivel junior/mid."
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF289650F-embedded-ai-software-engineer-mid-level",
+    "title": "Embedded AI Software Engineer Mid-Level",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:06.239Z",
+    "status": "scraped",
+    "tags": [
+      "embedded systems",
+      "microcontrolere"
+    ],
+    "matchPercentage": 85,
+    "reason": "Embedded AI Software Engineer Mid-Level - vizeaza direct proiectarea de sisteme embedded si programare C/C++, la nivel mid-level potrivit."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144767549",
+    "title": "Embedded AI Software Engineer Mid-Level",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:13.114Z",
+    "status": "scraped",
+    "tags": [
+      "embedded systems",
+      "programare C/C++"
     ],
     "matchPercentage": 82,
-    "reason": "Verificare pre-silicon a procesoarelor digitale foloseste direct competentele de proiectare digitala si limbaje HDL, la nivel potrivit pentru junior/mid."
+    "reason": "Embedded AI Software Engineer Mid-Level - proiectare de sisteme embedded cu AI, potrivire directa cu competentele de embedded si programare, nivel mid acceptabil."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272914/Emerson/Internship-Drafter-(12-Months)",
-    "title": "Internship Drafter (12 Months)",
-    "company": "EMERSON SRL",
+    "url": "https://jobs.zollner.ro/jobposting/757e663844e614caf997e4c261b896c4fdf65a9a0",
+    "title": "Inginer producție - Pregătirea fabricației",
+    "company": "ZES ZOLLNER ELECTRONIC SRL",
     "location": [
+      "Satu Mare",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:34.775Z",
+    "date": "2026-10-17T12:22:35.934Z",
     "status": "scraped",
     "tags": [
-      "tehnici CAD",
-      "grafica asistata"
+      "proiectare circuite",
+      "electronica aplicata"
     ],
-    "matchPercentage": 70,
-    "reason": "Internship de drafter într-o companie de automatizări, care folosește direct competențele de tehnici CAD."
+    "matchPercentage": 80,
+    "reason": "Post de inginer într-un serviciu de producție electronică (EMS), unde pregătirea documentației tehnice și a specificațiilor de fabricație folosește direct cunoștințele de electronică și proiectare de circuite."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3418949",
-    "title": "INGINER DE SISTEM ÎN INFORMATICA",
-    "company": "AROBS TRANSILVANIA SOFTWARE S.A.",
+    "url": "https://jobs.zollner.ro/jobposting/200cf519cd47080273854a74b5851a118191051b0",
+    "title": "Tehnician electronică",
+    "company": "ZES ZOLLNER ELECTRONIC SRL",
     "location": [
-      "CLUJ-NAPOCA"
-    ],
-    "salary": null,
-    "date": "2026-10-16T16:16:12.450Z",
-    "status": "scraped",
-    "tags": [
-      "C/C++",
-      "retele de calculatoare"
-    ],
-    "matchPercentage": 68,
-    "reason": "Inginerie de sisteme IT la o companie software, potrivit pentru competentele de C/C++, embedded si retele, cu nivel sub 3 ani experienta."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/uCiwtcDTv0",
-    "title": "Tehnician Telecomunicatii",
-    "company": "DIRECT ONE SA",
-    "location": [
-      "Brașov"
-    ],
-    "salary": null,
-    "date": "2026-10-16T10:40:52Z",
-    "status": "scraped",
-    "tags": [
-      "telecomunicatii",
-      "retele de calculatoare"
-    ],
-    "matchPercentage": 68,
-    "reason": "Instalarea, joncțiunea și măsurătorile pe fibră optică folosesc direct competențele de rețele/telecom la nivel junior-mid."
-  },
-  {
-    "url": "https://multijobs.ro/job/tehnician-retele-telecomunicatii/2493",
-    "title": "Tehnician Retele Telecomunicatii",
-    "company": "PRO CONECT SRL",
-    "location": [
-      "Suceava",
+      "Satu Mare",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:20.926Z",
+    "date": "2026-10-17T12:05:05.442Z",
     "status": "scraped",
     "tags": [
-      "telecomunicatii",
-      "retele de calculatoare"
+      "simulare si masuratori",
+      "electronica aplicata"
+    ],
+    "matchPercentage": 74,
+    "reason": "Testarea și repararea plăcilor electronice se potrivește cu competențele de electronică, măsurători și depanare, deși este un rol de tehnician cu experiență anterioară cerută."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/network-technician-level-1-support/406/",
+    "title": "Network technician – Level 1 Support",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:34.950Z",
+    "status": "scraped",
+    "tags": [
+      "retele de calculatoare",
+      "conectivitate"
     ],
     "matchPercentage": 65,
-    "reason": "Tehnician de rețele de telecomunicatii este un rol de intrare în domeniul telecom relevant pentru profil."
+    "reason": "Network technician Level 1 - domeniul retelelor de calculatoare se potriveste partial, nivel entry-level acceptabil, dar e mai mult suport decat proiectare."
   },
   {
-    "url": "https://jobs.borgdesign.ro/#pos_2",
-    "title": "Junior Web Developer",
-    "company": "BORG DESIGN SRL",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
+    "title": "Tehnician analiza calitatii (4 schimburi - Electronica) F/M - Marquardt",
+    "company": "HIPO COMPANY GRUP SRL",
     "location": [
-      "București"
+      "Sibiu",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T16:19:11.117Z",
+    "date": "2026-10-17T12:04:12.584Z",
     "status": "scraped",
     "tags": [
-      "programare C/C++",
-      "tehnologii web"
+      "simulare si masuratori",
+      "elemente de testare"
+    ],
+    "matchPercentage": 63,
+    "reason": "Analiza calității într-o fabrică de electronică folosește parțial competențele de măsurători și testare, dar rămâne un rol de control al calității, nu de proiectare."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272899/SCHAEFFLER/Inginer-proiectant",
+    "title": "Inginer proiectant",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:37.036Z",
+    "status": "scraped",
+    "tags": [
+      "circuite auto",
+      "proiectare circuit"
     ],
     "matchPercentage": 62,
-    "reason": "Nivelul junior se potriveste si C#/OOP se bazeaza pe competentele tale de programare C/C++ si pe materii de tehnologii web din curricula."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-montor-telecomunicatii-5",
-    "title": "Tehnician/montor telecomunicații",
-    "company": "RADTELEKOM CONNECTIONS SRL",
-    "location": [
-      "Dortmund",
-      "Germania",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:29.123Z",
-    "status": "scraped",
-    "tags": [
-      "telecomunicatii",
-      "retele de calculatoare"
-    ],
-    "matchPercentage": 60,
-    "reason": "Montajul echipamentelor de telecomunicatii intră direct în domeniul telecom, la nivel de intrare."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271921/Societe-Generale-Global-Solution-Centre/Internship-Java-Software-Engineer",
-    "title": "Internship Java Software Engineer",
-    "company": "SOCIETE GENERALE GLOBAL SOLUTION CENTRE S.A.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:03.226Z",
-    "status": "scraped",
-    "tags": [
-      "programare",
-      "inginerie software"
-    ],
-    "matchPercentage": 60,
-    "reason": "Internship de dezvoltare software care se bazează direct pe competențele de programare și inginerie software."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271990/Societe-Generale-Global-Solution-Centre/Internship-C#-Developer",
-    "title": "Internship C# Developer",
-    "company": "SOCIETE GENERALE GLOBAL SOLUTION CENTRE S.A.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:03.226Z",
-    "status": "scraped",
-    "tags": [
-      "programare",
-      "inginerie software"
-    ],
-    "matchPercentage": 60,
-    "reason": "Internship de dezvoltare software care se bazează direct pe competențele de programare și inginerie software."
+    "reason": "Inginer proiectant la Schaeffler/Vitesco, dezvoltare de electronica auto (ECU/circuite integrate pentru auto), domeniu relevant desi anuntul e vag."
   }
 ]
