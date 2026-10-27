@@ -7,83 +7,123 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-25T11:04:36.684Z",
+    "date": "2026-10-26T12:37:42.622Z",
     "status": "scraped",
-    "tags": [],
-    "matchPercentage": 92,
-    "reason": "Proiectare hardware electronică auto, potrivire directă cu competențele de circuite și embedded."
+    "tags": [
+      "hardware",
+      "PCB"
+    ],
+    "matchPercentage": 95,
+    "reason": "Proiectare hardware electronică pentru automotive, potrivit pentru junior/entry-level"
   },
   {
-    "url": "https://apply.workable.com/j/93AABAA821",
-    "title": "Embedded C Software Engineer | Aviation",
-    "company": "GARMIN CLUJ SRL",
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/FOs0fT7Gtj",
+    "title": "Inginer Proiectare Instalatii Electrice Primare",
+    "company": "ELECTROGRUP SA",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-25T19:27:38.284Z",
+    "date": "2026-10-26T12:30:15Z",
     "status": "scraped",
     "tags": [
-      "microcontrolere",
-      "programare C"
+      "electrice",
+      "proiectare"
+    ],
+    "matchPercentage": 95,
+    "reason": "Proiectare instalatii electrice primare in statii, dimensionare echipamente si conformitate cu standarde IEC/EN."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/0lIDQtu2zZ",
+    "title": "Inginer Proiectare Instalatii Electrice Primare",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:30:15Z",
+    "status": "scraped",
+    "tags": [
+      "electrice",
+      "proiectare"
+    ],
+    "matchPercentage": 95,
+    "reason": "Proiectare instalatii electrice primare in statii, dimensionare echipamente si conformitate cu standarde IEC/EN."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/e-infra-/18859/inginer-proiectare-instalatii-electrice-primare",
+    "title": "Inginer Proiectare Instalatii Electrice Primare",
+    "company": "E-INFRA S.A.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:45.828Z",
+    "status": "scraped",
+    "tags": [
+      "electrice",
+      "proiectare"
+    ],
+    "matchPercentage": 95,
+    "reason": "Proiectare instalatii electrice primare in statii electrice - foarte relevant."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/B5YbGEBGbY",
+    "title": "Inginer Proiectant Instalatii Secundare",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:30:15Z",
+    "status": "scraped",
+    "tags": [
+      "protectie",
+      "automatizare"
     ],
     "matchPercentage": 90,
-    "reason": "Embedded C pentru aviație folosește direct microcontrolerele și programarea C din planul de învățământ."
+    "reason": "Instalatii secundare in statii - scheme de protectie, comanda, SCADA si automatizari, relevante pentru sisteme embedded si automatizare."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144767549-embedded-ai-software-engineer-mid-level",
-    "title": "Embedded AI Software Engineer Mid-Level",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/cD3jA97IQS",
+    "title": "Inginer Proiectant Instalatii Secundare",
+    "company": "ELECTROGRUP SA",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-25T11:04:36.685Z",
+    "date": "2026-10-26T12:30:15Z",
     "status": "scraped",
     "tags": [
-      "embedded systems",
-      "C/C++"
+      "protectie",
+      "automatizare"
     ],
-    "matchPercentage": 88,
-    "reason": "Rol mid-level de inginer software embedded cu AI, care leagă hardware, acceleratoare și stack-uri software de nivel jos."
+    "matchPercentage": 90,
+    "reason": "Instalatii secundare in statii - scheme de protectie, comanda, SCADA si automatizari, relevante pentru sisteme embedded si automatizare."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156289169-working-student-in-embedded-software-development-high-level",
-    "title": "Working Student in Embedded Software Development - High Level",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://www.leohr.ro/jobs/inginer-electric-proiectare-instalatii-electrice-industriale/503/",
+    "title": "Inginer electric proiectare - Instalatii Electrice Industriale",
+    "company": "LEOHR S.R.L.",
     "location": [
-      "Cluj-Napoca",
+      "Bucuresti",
+      "Sector 2",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-25T11:04:36.684Z",
+    "date": "2026-10-17T12:19:49.213Z",
     "status": "scraped",
     "tags": [
-      "embedded systems",
-      "software development"
+      "electrice",
+      "proiectare"
     ],
-    "matchPercentage": 87,
-    "reason": "Working student în dezvoltare software embedded, potrivit ca nivel și domeniu pentru competențele tale."
-  },
-  {
-    "url": "https://jobs.zollner.ro/jobposting/b6b83168c8d191aadedc69f020f5f0c82e6df9ee0",
-    "title": "Inginer sisteme de testare",
-    "company": "ZES ZOLLNER ELECTRONIC SRL",
-    "location": [
-      "Satu Mare",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:35.934Z",
-    "status": "scraped",
-    "tags": [
-      "testare automata",
-      "circuite electronice"
-    ],
-    "matchPercentage": 85,
-    "reason": "Inginer de testare pentru produse electronice, cu analiza de PCB si sisteme de test."
+    "matchPercentage": 90,
+    "reason": "Proiectare instalatii electrice industriale - relevant pentru competente de proiectare electrica."
   },
   {
     "url": "https://www.targuldecariere.ro/companii/zes-zollner-electronic/10572/undefined",
@@ -97,47 +137,29 @@
     "date": "2026-10-17T12:19:29.752Z",
     "status": "scraped",
     "tags": [
-      "testare automata",
-      "circuite electronice"
+      "testare",
+      "embedded"
     ],
-    "matchPercentage": 85,
-    "reason": "Inginer de testare pentru produse electronice, cu analiza de PCB si sisteme de test."
+    "matchPercentage": 90,
+    "reason": "Elaborare programe de testare pentru produse electronice."
   },
   {
-    "url": "https://jobs.bosch.com/en/job/REF289650F-embedded-ai-software-engineer-mid-level",
-    "title": "Embedded AI Software Engineer Mid-Level",
-    "company": "BOSCH REXROTH S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156289169-working-student-in-embedded-software-development-high-level",
+    "title": "Working Student in Embedded Software Development - High Level",
+    "company": "ROBERT BOSCH SRL",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:19:06.239Z",
+    "date": "2026-10-26T12:37:42.622Z",
     "status": "scraped",
     "tags": [
-      "embedded systems",
+      "embedded",
       "C/C++"
     ],
-    "matchPercentage": 85,
-    "reason": "Rol mid-level de dezvoltare software embedded, direct relevant pentru sisteme embedded și programare C/C++."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3235072",
-    "title": "INGINER ELECTRONIST TRANSPORTURI, TELECOMUNICATII",
-    "company": "INFOPRO DIGITAL AUTOMOTIVE SOCIETATE CU RASPUNDERE LIMITATĂ",
-    "location": [
-      "Municipiul brasov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:34.907Z",
-    "status": "scraped",
-    "tags": [
-      "electronica auto",
-      "microcontrolere"
-    ],
-    "matchPercentage": 80,
-    "reason": "Inginer electronist entry-level in automotive, fara experienta ceruta."
+    "matchPercentage": 90,
+    "reason": "Dezvoltare embedded directă, potrivită pentru studenți la ETTI."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/V3gVH4MgG2",
@@ -148,14 +170,50 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-25T11:09:55Z",
+    "date": "2026-10-26T12:44:06Z",
     "status": "scraped",
     "tags": [
-      "retele de calculatoare",
-      "securitate cibernetica"
+      "retele",
+      "automatizari"
     ],
-    "matchPercentage": 75,
-    "reason": "Administrare retele industriale OT cu configurare, monitorizare si securitate cibernetica."
+    "matchPercentage": 88,
+    "reason": "Administrare retele industriale OT, foarte relevant pentru retele, automatizari si sisteme de comunicatie."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000113124977-internship-program",
+    "title": "Internship Program",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:37:42.622Z",
+    "status": "scraped",
+    "tags": [
+      "embedded",
+      "automotive"
+    ],
+    "matchPercentage": 87,
+    "reason": "Internship Bosch - foarte relevant, Bosch angajeaza adesea studenti ETTI in embedded/automotive/electronica."
+  },
+  {
+    "url": "https://www.artsoft-consult.ro/contact/internship-cv",
+    "title": "Internship",
+    "company": "ARTSOFT CONSULT SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:38:12.043Z",
+    "status": "scraped",
+    "tags": [
+      "software",
+      "internship"
+    ],
+    "matchPercentage": 86,
+    "reason": "Internship general in IT/consultanta software - poate fi relevant daca focalizeaza pe embedded/software tehnic."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3357573",
@@ -169,44 +227,47 @@
     "date": "2026-10-17T12:11:42.500Z",
     "status": "scraped",
     "tags": [
-      "sisteme electronice",
-      "comunicatii"
+      "electronica",
+      "telecomunicatii"
     ],
-    "matchPercentage": 70,
-    "reason": "Inginer electronist entry-level pentru sisteme electronice si echipamente de comunicatii."
+    "matchPercentage": 85,
+    "reason": "Sisteme electronice si de comunicatii, potrivit pentru junior fara experienta, nivel universitar."
   },
   {
-    "url": "https://apply.workable.com/j/3FBA1085E2",
-    "title": "C++ Software Engineer | Marine | 2 roles",
-    "company": "GARMIN CLUJ SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-25T19:27:38.284Z",
-    "status": "scraped",
-    "tags": [
-      "programare C/C++",
-      "inginerie software"
-    ],
-    "matchPercentage": 68,
-    "reason": "C++ este competență directă, iar rolul Garmin Marine este software tehnic apropiat de sisteme embedded."
-  },
-  {
-    "url": "https://jobs.zollner.ro/jobposting/200cf519cd47080273854a74b5851a118191051b0",
-    "title": "Tehnician electronică",
-    "company": "ZES ZOLLNER ELECTRONIC SRL",
+    "url": "https://www.randstad.ro/locuri-de-munca/tehnician-mecatronist-satu-mare_satu-mare_4998/",
+    "title": "Tehnician mecatronist - Satu Mare",
+    "company": "RANDSTAD ROMANIA SRL",
     "location": [
       "Satu Mare",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:05:05.442Z",
+    "date": "2026-10-26T12:13:28.110Z",
     "status": "scraped",
-    "tags": [],
-    "matchPercentage": 65,
-    "reason": "Testare și depanare plăci electronice, potrivire parțială cu competențele de măsurători."
+    "tags": [
+      "mecatronica",
+      "automatizari"
+    ],
+    "matchPercentage": 84,
+    "reason": "Tehnician mecatronist - combina electronica, automatizari si sisteme embedded, potrivit pentru junior."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/tehnician-automatist-satu-mare_satu-mare_4995/",
+    "title": "Tehnician Automatist - Satu Mare",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Satu Mare",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:13:28.110Z",
+    "status": "scraped",
+    "tags": [
+      "automatizari",
+      "control"
+    ],
+    "matchPercentage": 82,
+    "reason": "Tehnician automatist - se potriveste automatizarilor, PLC-uri, sisteme de control."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/uCiwtcDTv0",
@@ -217,50 +278,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-25T10:42:06Z",
+    "date": "2026-10-26T12:14:35Z",
     "status": "scraped",
     "tags": [
-      "fibra optica",
-      "telecomunicatii"
+      "telecomunicatii",
+      "retele"
     ],
-    "matchPercentage": 65,
-    "reason": "Tehnician fibra optica cu instalare, jonctionare si masuratori, domeniu telecom relevant."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/network-technician-level-1-support/406/",
-    "title": "Network technician – Level 1 Support",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:17:34.950Z",
-    "status": "scraped",
-    "tags": [
-      "retele de calculatoare",
-      "conectivitate"
-    ],
-    "matchPercentage": 65,
-    "reason": "Tehnician de rețea entry-level, parțial aliniat cu competențele de rețelistică, dar orientat spre suport N1."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/inginer-testare-tablouri-electrice-j6w8vg",
-    "title": "Inginer Testare Tablouri Electrice",
-    "company": "EEKELS ROMANIA SRL",
-    "location": [
-      "Galati",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:06:09.665Z",
-    "status": "scraped",
-    "tags": [
-      "masuratori",
-      "analiza circuitelor"
-    ],
-    "matchPercentage": 62,
-    "reason": "Testare de tablouri electrice si masuratori electrice, potrivire partiala cu electronica aplicata."
+    "matchPercentage": 80,
+    "reason": "Mentenanță/instalare rețele fibra optică și transmisii."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3364956",
@@ -274,26 +299,11 @@
     "date": "2026-10-17T12:21:59.557Z",
     "status": "scraped",
     "tags": [
-      "retele",
-      "telecomunicatii"
+      "telecomunicatii",
+      "retele"
     ],
-    "matchPercentage": 62,
-    "reason": "Tehnician retele de telecomunicatii cu putina experienta, potrivire partiala."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
-    "title": "Tehnician analiza calitatii (4 schimburi - Electronica) F/M - Marquardt",
-    "company": "HIPO COMPANY GRUP SRL",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:04:12.584Z",
-    "status": "scraped",
-    "tags": [],
-    "matchPercentage": 60,
-    "reason": "Analiză calitate în electronică, parțial relevantă prin cunoștințele de testare și măsurători."
+    "matchPercentage": 80,
+    "reason": "Tehnician rețele telecomunicații, nivel și domeniu potrivite."
   },
   {
     "url": "https://multijobs.ro/job/tehnician-retele-de-telecomunicatii/717",
@@ -307,11 +317,11 @@
     "date": "2026-10-17T12:14:46.708Z",
     "status": "scraped",
     "tags": [
-      "retele",
-      "telecomunicatii"
+      "telecomunicatii",
+      "retele"
     ],
-    "matchPercentage": 60,
-    "reason": "Tehnician retele telecom, nivel de intrare si domeniu relevant."
+    "matchPercentage": 80,
+    "reason": "Tehnician rețele telecomunicații, nivel și domeniu potrivite."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-in-ingineria-telecomunicatiilor",
@@ -325,27 +335,100 @@
     "date": "2026-10-17T12:11:37.535Z",
     "status": "scraped",
     "tags": [
-      "telecomunicatii"
+      "telecomunicatii",
+      "retele"
     ],
-    "matchPercentage": 60,
-    "reason": "Tehnician telecomunicatii pe cale ferata, domeniu relevant la nivel tehnic."
+    "matchPercentage": 80,
+    "reason": "Tehnician in ingineria telecomunicatiilor, se potriveste direct competentelor de telecomunicatii si retele."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/QySfQRgesf",
-    "title": "Tehnician Sisteme de Securitate",
-    "company": "DIRECT ONE SA",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
+    "title": "Tehnician analiza calitatii (4 schimburi - Electronica) F/M - Marquardt",
+    "company": "HIPO COMPANY GRUP SRL",
+    "location": [
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:04:12.584Z",
+    "status": "scraped",
+    "tags": [
+      "testare",
+      "electronică"
+    ],
+    "matchPercentage": 65,
+    "reason": "Analiză calitate pentru componente electronice automotive, parțial relevant pentru student"
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157500560-working-student-uiux-design-for-connected-services",
+    "title": "Working Student UI/UX Design for Connected Services",
+    "company": "ROBERT BOSCH SRL",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-25T10:42:06Z",
+    "date": "2026-10-26T12:37:42.622Z",
     "status": "scraped",
     "tags": [
-      "senzori",
-      "testare"
+      "web",
+      "ux"
+    ],
+    "matchPercentage": 65,
+    "reason": "Working Student UI/UX - partial relevant prin tehnologii web si dezvoltare software."
+  },
+  {
+    "url": "https://jobs.borgdesign.ro/#pos_2",
+    "title": "Junior Web Developer",
+    "company": "BORG DESIGN SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:25:45.483Z",
+    "status": "scraped",
+    "tags": [
+      "web",
+      "csharp"
+    ],
+    "matchPercentage": 65,
+    "reason": "Junior Web Developer .NET/C# - partial relevant prin programare si dezvoltare software."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/inginer-testare-tablouri-electrice-j6w8vg",
+    "title": "Inginer Testare Tablouri Electrice",
+    "company": "EEKELS ROMANIA SRL",
+    "location": [
+      "Galati",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:06:09.665Z",
+    "status": "scraped",
+    "tags": [
+      "electronica",
+      "masuratori"
+    ],
+    "matchPercentage": 65,
+    "reason": "Teste electrice pe tablouri, relevant parțial pentru electronică de putere."
+  },
+  {
+    "url": "https://jobs.borgdesign.ro/#pos_10",
+    "title": "SQL Developer",
+    "company": "BORG DESIGN SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:25:45.483Z",
+    "status": "scraped",
+    "tags": [
+      "sql",
+      "software"
     ],
     "matchPercentage": 60,
-    "reason": "Integrare si testare sisteme de securitate cu senzori, retele si FAT/SAT."
+    "reason": "SQL Developer - partial relevant prin baze de date si dezvoltare software, nivel entry-level posibil."
   }
 ]
