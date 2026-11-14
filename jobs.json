@@ -1,5 +1,92 @@
 [
   {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161316379-electronics-hardware-design-engineer",
+    "title": "Electronics Hardware Design Engineer",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare hardware",
+      "electronică auto"
+    ],
+    "matchPercentage": 90,
+    "reason": "Proiectare hardware electronică automotive, potrivire directă cu competențele de circuite și testare."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161446909-electronics-development-engineer",
+    "title": "Electronics Development Engineer",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare hardware",
+      "electronică auto"
+    ],
+    "matchPercentage": 88,
+    "reason": "Proiectare hardware electronică pentru automotive powertrain, cu validare și documentare tehnică."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
+    "title": "Working Student Embedded ADAS Software",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "embedded",
+      "C/C++"
+    ],
+    "matchPercentage": 88,
+    "reason": "Dezvoltare software embedded pe hardware dedicat pentru ADAS, potrivire directa cu competentele de embedded, C/C++ si electronica auto."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
+    "title": "Working Student Laboratory Support (Electronics Testing)",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "testare electronică",
+      "măsurători"
+    ],
+    "matchPercentage": 82,
+    "reason": "Rol de student pentru testare electronică, analiză și diagnosticare în laborator."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/V3gVH4MgG2",
+    "title": "Specialist Administrare Retele Industriale (OT)",
+    "company": "E-INFRA S.A.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:25:44Z",
+    "status": "scraped",
+    "tags": [
+      "Rețele",
+      "Securitate cibernetică"
+    ],
+    "matchPercentage": 72,
+    "reason": "Administrarea rețelelor industriale Ethernet/OT și a securității se potrivește direct cu competențele de rețele de calculatoare și securitate cibernetică."
+  },
+  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3439388",
     "title": "TEHNICIAN ELECTRONICA",
     "company": "AROBS TRANSILVANIA SOFTWARE S.A.",
@@ -8,13 +95,103 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-13T07:05:28.408Z",
+    "date": "2026-11-13T13:56:40.454Z",
     "status": "scraped",
     "tags": [
-      "electronica aplicata",
-      "masuratori"
+      "electronică",
+      "testare"
     ],
-    "matchPercentage": 82,
-    "reason": "Post entry-level de tehnician in electronica, cu atributii directe in domeniul electronicii aplicate."
+    "matchPercentage": 70,
+    "reason": "Tehnician electronică cu experiență redusă, potrivit ca nivel entry-level în domeniul electronicii."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/B5YbGEBGbY",
+    "title": "Inginer Proiectant Instalatii Secundare",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:12:23Z",
+    "status": "scraped",
+    "tags": [
+      "scheme electrice",
+      "SCADA"
+    ],
+    "matchPercentage": 65,
+    "reason": "Proiectare instalații secundare cu scheme de protecție, automatizare și interfețe SCADA, potrivire parțială."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/cD3jA97IQS",
+    "title": "Inginer Proiectant Instalatii Secundare",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:12:23Z",
+    "status": "scraped",
+    "tags": [
+      "scheme electrice",
+      "SCADA"
+    ],
+    "matchPercentage": 65,
+    "reason": "Proiectare instalații secundare cu scheme de protecție, automatizare și interfețe SCADA, potrivire parțială."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
+    "title": "Working student Deep Learning &amp; Data Science",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "Python",
+      "procesare imagini"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rol de DL/Data Science pentru ADAS care foloseste partial Python, procesarea imaginilor si analiza numerica din planul de studii."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/uCiwtcDTv0",
+    "title": "Tehnician Telecomunicatii",
+    "company": "DIRECT ONE SA",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:54:21Z",
+    "status": "scraped",
+    "tags": [
+      "Telecomunicații",
+      "Măsurători"
+    ],
+    "matchPercentage": 62,
+    "reason": "Rol tehnic în telecomunicații cu fibră optică, măsurători și instalare, relevant pentru competențele de telecomunicații, deși nivelul este la limita mid."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/QySfQRgesf",
+    "title": "Tehnician Sisteme de Securitate",
+    "company": "DIRECT ONE SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:54:21Z",
+    "status": "scraped",
+    "tags": [
+      "Senzori",
+      "Testare"
+    ],
+    "matchPercentage": 60,
+    "reason": "Integrarea sistemelor de securitate cu senzori, configurare și teste FAT/SAT are o potrivire parțială cu senzorii și testarea studiate."
   }
 ]
