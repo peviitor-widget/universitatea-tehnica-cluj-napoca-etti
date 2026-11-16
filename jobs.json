@@ -1,22 +1,5 @@
 [
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161446909-electronics-development-engineer",
-    "title": "Electronics Development Engineer",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-14T13:17:33.600Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare hardware",
-      "electronica auto"
-    ],
-    "matchPercentage": 92,
-    "reason": "Proiectare, validare și documentare hardware pentru electronica auto, folosind direct competențele de circuite și proiectare hardware."
-  },
-  {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161316379-electronics-hardware-design-engineer",
     "title": "Electronics Hardware Design Engineer",
     "company": "ROBERT BOSCH SRL",
@@ -24,14 +7,49 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-14T13:17:33.600Z",
+    "date": "2026-11-15T13:45:27.217Z",
     "status": "scraped",
     "tags": [
       "proiectare hardware",
       "electronica auto"
     ],
-    "matchPercentage": 92,
-    "reason": "Proiectare, validare și documentare hardware pentru electronica auto, folosind direct competențele de circuite și proiectare hardware."
+    "matchPercentage": 90,
+    "reason": "Post de proiectare hardware auto cu validare si testare, foarte potrivit pentru electronica aplicata."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
+    "title": "Working Student Embedded ADAS Software",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-15T13:45:27.217Z",
+    "status": "scraped",
+    "tags": [
+      "Embedded",
+      "C/C++"
+    ],
+    "matchPercentage": 90,
+    "reason": "Rol de working student pentru software ADAS pe hardware embedded, foarte potrivit cu competențele de sisteme embedded și aplicații auto."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161446909-electronics-development-engineer",
+    "title": "Electronics Development Engineer",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-15T13:45:27.217Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare hardware",
+      "electronica auto"
+    ],
+    "matchPercentage": 88,
+    "reason": "Proiectare hardware auto cu validare si documentare, direct pe competentele de electronica si circuite integrate."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
@@ -41,50 +59,14 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-14T13:17:33.600Z",
+    "date": "2026-11-15T13:45:27.217Z",
     "status": "scraped",
     "tags": [
-      "electronica aplicata",
-      "masuratori"
+      "masuratori electronice",
+      "testare"
     ],
-    "matchPercentage": 87,
-    "reason": "Post de working student pentru analiză și testare electronică, potrivit nivelului de student și competențelor de măsurători."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/LWJJiTCyF7",
-    "title": "Network &amp; Security Engineer – OT / Industrial Networks",
-    "company": "E-INFRA S.A.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-14T15:08:18Z",
-    "status": "scraped",
-    "tags": [
-      "retele de calculatoare",
-      "securitate cibernetica"
-    ],
-    "matchPercentage": 78,
-    "reason": "Proiectarea si implementarea retelelor OT/SCADA cu switching, routing si securitate se potriveste direct cu competentele de retele de calculatoare si securitate cibernetica."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/iA6z785oQd",
-    "title": "Network &amp; Security Engineer – OT / Industrial Networks",
-    "company": "E-INFRA S.A.",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-14T15:08:18Z",
-    "status": "scraped",
-    "tags": [
-      "retele de calculatoare",
-      "securitate cibernetica"
-    ],
-    "matchPercentage": 78,
-    "reason": "Proiectarea si implementarea retelelor OT/SCADA cu switching, routing si securitate se potriveste direct cu competentele de retele de calculatoare si securitate cibernetica."
+    "matchPercentage": 85,
+    "reason": "Suport de laborator cu analiza si testare electronica, potrivit ca rol de student in domeniu."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/V3gVH4MgG2",
@@ -95,32 +77,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T15:08:18Z",
+    "date": "2026-11-15T13:48:47Z",
     "status": "scraped",
     "tags": [
-      "retele calculatoare",
-      "securitate cibernetica"
+      "Rețele",
+      "Telecomunicații"
     ],
-    "matchPercentage": 72,
-    "reason": "Administrare retele Ethernet industriale, fibra optica, configurare si securitate OT, potrivit pe retele si securitate cibernetica."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3439388",
-    "title": "TEHNICIAN ELECTRONICA",
-    "company": "AROBS TRANSILVANIA SOFTWARE S.A.",
-    "location": [
-      "CLUJ-NAPOCA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-13T13:56:40.454Z",
-    "status": "scraped",
-    "tags": [
-      "electronica aplicata",
-      "testare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Tehnician electronică cu experiență sub 3 ani, rol entry-level care folosește competențe de electronică aplicată și testare."
+    "matchPercentage": 78,
+    "reason": "Administrare rețele industriale (Ethernet, fibră optică, securitate OT, conectivitate SCADA), relevantă pentru rețele și telecomunicații."
   },
   {
     "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/details/Thales-Technology-Internship--Software-Development--Testing---IT-Operations_R0346859",
@@ -131,31 +95,121 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-09T12:35:42Z",
+    "date": "2026-11-09T13:01:30Z",
     "status": "scraped",
     "tags": [
       "C/C++",
-      "inginerie software"
+      "Software"
     ],
-    "matchPercentage": 65,
-    "reason": "Internship de dezvoltare software cu C++ și testare, relevant parțial pentru competențele de programare și metode de dezvoltare software, dar nu vizează direct electronica/embedded."
+    "matchPercentage": 74,
+    "reason": "Internship de dezvoltare software și testare (C++, Java, Linux, DevOps), potrivit pentru competențele de programare și inginerie software."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/QySfQRgesf",
-    "title": "Tehnician Sisteme de Securitate",
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/uCiwtcDTv0",
+    "title": "Tehnician Telecomunicatii",
+    "company": "DIRECT ONE SA",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-15T13:25:38Z",
+    "status": "scraped",
+    "tags": [
+      "Telecomunicații",
+      "Rețele"
+    ],
+    "matchPercentage": 72,
+    "reason": "Activități de instalare, mentenanță și testare rețele de fibră optică și echipamente telecom, potrivite competențelor de telecomunicații."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/B5YbGEBGbY",
+    "title": "Inginer Proiectant Instalatii Secundare",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-15T13:39:50Z",
+    "status": "scraped",
+    "tags": [
+      "scheme electrice",
+      "automatizare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Proiectare scheme de protectie, comanda si SCADA, potrivire partiala pe circuite, control si automatizare."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/cD3jA97IQS",
+    "title": "Inginer Proiectant Instalatii Secundare",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-15T13:39:50Z",
+    "status": "scraped",
+    "tags": [
+      "scheme electrice",
+      "automatizare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Proiectare instalatii secundare cu relee, RTU si SCADA, relevanta partiala pentru circuite si control."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
+    "title": "Working student Deep Learning &amp; Data Science",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-15T13:45:27.217Z",
+    "status": "scraped",
+    "tags": [
+      "Python",
+      "DSP"
+    ],
+    "matchPercentage": 68,
+    "reason": "Rol de working student în ADAS cu dezvoltare de modele AI pentru senzori, relevant parțial prin procesare de semnal și aplicații auto, deși accentul e pe data science."
+  },
+  {
+    "url": "https://jobs.borgdesign.ro/#pos_2",
+    "title": "Junior Web Developer",
+    "company": "BORG DESIGN SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-15T13:36:04.060Z",
+    "status": "scraped",
+    "tags": [
+      "tehnologii web",
+      "dezvoltare software"
+    ],
+    "matchPercentage": 65,
+    "reason": "Dezvoltare web junior cu C#/.NET, potrivire parțială prin programare și inginerie software."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/EtbUWrw5yM",
+    "title": "Inginer Proiectant Joasa Tensiune &amp; Curenti Slabi",
     "company": "DIRECT ONE SA",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T12:56:54Z",
+    "date": "2026-11-15T13:25:38Z",
     "status": "scraped",
     "tags": [
-      "electronica",
-      "testare"
+      "scheme electrice",
+      "curenti slabi"
     ],
     "matchPercentage": 63,
-    "reason": "Proiectare solutii de securitate cu dimensionare echipamente, integrare prin protocoale si teste FAT/SAT, potrivire partiala pe electronica si masuratori."
+    "reason": "Proiectare instalatii de joasa tensiune si curenti slabi, potrivire partiala pe scheme electrice si electronica."
   }
 ]
