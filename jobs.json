@@ -1,5 +1,74 @@
 [
   {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161446909-electronics-development-engineer",
+    "title": "Electronics Development Engineer",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:46:31.371Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare hardware",
+      "electronica auto"
+    ],
+    "matchPercentage": 92,
+    "reason": "Proiectare hardware electronic pentru automotive powertrain, potrivire directă cu proiectarea de circuite și electronica auto."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161316379-electronics-hardware-design-engineer",
+    "title": "Electronics Hardware Design Engineer",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:46:31.371Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare hardware",
+      "electronica auto"
+    ],
+    "matchPercentage": 92,
+    "reason": "Proiectare hardware electronic pentru automotive powertrain, potrivire directă cu proiectarea de circuite și electronica auto."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
+    "title": "Working Student Embedded ADAS Software",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:46:31.371Z",
+    "status": "scraped",
+    "tags": [
+      "Embedded",
+      "Automotive"
+    ],
+    "matchPercentage": 92,
+    "reason": "Dezvoltare software embedded pentru ADAS pe hardware dedicat, aliniată direct cu competențele de sisteme embedded și aplicații auto."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
+    "title": "Working Student Laboratory Support (Electronics Testing)",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:46:31.371Z",
+    "status": "scraped",
+    "tags": [
+      "testare electronica",
+      "masuratori electronice"
+    ],
+    "matchPercentage": 85,
+    "reason": "Rol de student pentru suport în laborator cu analize și testare electronică, direct relevant și la nivel potrivit."
+  },
+  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3366286",
     "title": "TEHNICIAN ELECTRONICA",
     "company": "DIGITAL BIT SRL",
@@ -11,83 +80,65 @@
     "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "scheme electronice",
-      "masuratori"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rolul implică direct scheme electronice, microcircuite și aparate de măsură, cu zero ani experiență."
-  },
-  {
-    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/junior-network-engineer",
-    "title": "Junior Network Engineer",
-    "company": "PPC ENERGIE S.A.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:33:11Z",
-    "status": "tested",
-    "tags": [
-      "retele",
-      "telecomunicatii"
-    ],
-    "matchPercentage": 85,
-    "reason": "Configurarea, monitorizarea și depanarea rețelelor și serviciilor de telecomunicații folosesc direct competențele de rețelistică, iar nivelul Junior este potrivit."
-  },
-  {
-    "url": "https://multijobs.ro/job/tehnician-retele-telecomunicatii/2493",
-    "title": "Tehnician Retele Telecomunicatii",
-    "company": "PRO CONECT SRL",
-    "location": [
-      "Suceava",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:10:32Z",
-    "status": "tested",
-    "tags": [
-      "telecomunicatii",
-      "retele"
-    ],
-    "matchPercentage": 85,
-    "reason": "Tehnicianul de rețele de telecomunicații aplică direct cunoștințele de rețele de calculatoare și telecomunicații, la nivel entry-level."
-  },
-  {
-    "url": "https://multijobs.ro/job/tehnician-retea-telecomunicatii-si-mentenanta/6430",
-    "title": "Tehnician Retea -Telecomunicatii si Mentenanta",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Giurgiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:36:29Z",
-    "status": "tested",
-    "tags": [
-      "telecomunicatii",
-      "retele"
-    ],
-    "matchPercentage": 82,
-    "reason": "Mentenanța rețelelor de telecomunicații corespunde competențelor de rețele și telecomunicații, fără cerințe de senioritate."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/tehnician-telecomunicatii",
-    "title": "Tehnician telecomunicatii",
-    "company": "TELECOMUNICATII C.F.R. SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T08:26:38Z",
-    "status": "tested",
-    "tags": [
-      "telecomunicatii",
-      "comunicatii mobile"
+      "circuite electronice",
+      "masuratori electronice"
     ],
     "matchPercentage": 80,
-    "reason": "Tehnicianul pentru operatori de telefonie mobilă folosește competențele de comunicații mobile, fără cerință de experiență îndelungată."
+    "reason": "Tehnician electronică entry-level cu microcircuite, plăci de bază, măsurători și depanare de circuite, potrivire directă."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
+    "title": "Working student Deep Learning &amp; Data Science",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:46:31.371Z",
+    "status": "scraped",
+    "tags": [
+      "embedded auto",
+      "prelucrare imagini"
+    ],
+    "matchPercentage": 76,
+    "reason": "Working student in Deep Learning pentru ADAS (radar/lidar/vision), relevant pentru auto embedded si prelucrarea imaginilor."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/V3gVH4MgG2",
+    "title": "Specialist Administrare Retele Industriale (OT)",
+    "company": "E-INFRA S.A.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:51:04Z",
+    "status": "scraped",
+    "tags": [
+      "retele calculatoare",
+      "securitate cibernetica"
+    ],
+    "matchPercentage": 72,
+    "reason": "Administrare retele industriale OT cu configurare, monitorizare si securitate, potrivire partiala pe retele de calculatoare si securitate."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/inginer-echipamente-testare/53/",
+    "title": "Inginer Echipamente Testare",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:39:26Z",
+    "status": "tested",
+    "tags": [
+      "instrumentatie",
+      "testare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Rol de inginer pentru echipamente de testare, relevant direct pentru instrumentatie si testare electronica, dar fara detalii care sa confirme nivelul."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3277202",
@@ -101,118 +152,64 @@
     "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "retele",
-      "calculatoare"
-    ],
-    "matchPercentage": 80,
-    "reason": "Tehnicianul de echipamente de calcul și rețele folosește competențele de rețele de calculatoare, la nivel junior, cu sub 3 ani experiență."
-  },
-  {
-    "url": "https://multijobs.ro/job/tehnician-curenti-slabi-telecomunicatii/4099",
-    "title": "Tehnician curenti slabi/telecomunicatii",
-    "company": "WAVENET SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:21:15Z",
-    "status": "tested",
-    "tags": [
-      "telecomunicatii",
-      "retele"
-    ],
-    "matchPercentage": 78,
-    "reason": "Lucrul cu curenți slabi și telecomunicații valorifică parțial cunoștințele de circuite și rețele la nivel de tehnician."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3333052",
-    "title": "TEHNICIAN RETELE DE TELECOMUNICATII",
-    "company": "DELTANET SRL",
-    "location": [
-      "BOD",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "telecomunicatii",
-      "retele"
-    ],
-    "matchPercentage": 78,
-    "reason": "Rețelele de telecomunicații și cerința de zero experiență se potrivesc competențelor, deși munca în teren e mai puțin inginerească."
-  },
-  {
-    "url": "https://multijobs.ro/job/inginer-automatist-industria-automotive-maracineni-jud-arges/515",
-    "title": "Inginer Automatist industria automotive-Maracineni, jud. Arges",
-    "company": "OTHUA INDUSTRIAL SRL",
-    "location": [
-      "Maracineni",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:44:41Z",
-    "status": "tested",
-    "tags": [
-      "reglare control",
-      "embedded auto"
-    ],
-    "matchPercentage": 70,
-    "reason": "Automatizarea din industria auto valorifică reglarea și controlul, domeniu înrudit cu embedded-ul auto."
-  },
-  {
-    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/it-telecomunicatii/anunt/tehnician-automatizari/7fffhh3g6d877573d628081844d771fg.html",
-    "title": "Tehnician automatizari",
-    "company": "PUBLI24 DIGITAL S.R.L.",
-    "location": [
-      "BARCANESTI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:40:38Z",
-    "status": "tested",
-    "tags": [
-      "reglare control",
-      "senzori"
-    ],
-    "matchPercentage": 68,
-    "reason": "Tehnician automatizari cu sarcini de reglare/control si senzori, nivel potrivit pentru un absolvent ETTI."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
-    "title": "Tehnician analiza calitatii (4 schimburi - Electronica) F/M - Marquardt",
-    "company": "HIPO COMPANY GRUP SRL",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:16:28Z",
-    "status": "tested",
-    "tags": [
-      "masuratori",
-      "testare automata"
+      "retele calculatoare",
+      "hardware"
     ],
     "matchPercentage": 62,
-    "reason": "Analiza calității în electronice folosește parțial măsurătorile și testarea, iar intervalul 1-5 ani este acceptabil."
+    "reason": "Tehnician echipamente de calcul si retele, cu studii universitare si sub 3 ani experienta, foloseste partial competentele de hardware si retele."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441121",
-    "title": "TEHNICIAN ELECTRONICA",
-    "company": "ELMET INTERNATIONAL SRL",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273100/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineering-Internship---BearingPoint",
+    "title": "Software Engineering Internship - BearingPoint",
+    "company": "ENTRY SRL",
     "location": [
-      "BRASOV",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
+    "date": "2026-11-17T15:36:05Z",
+    "status": "tested",
     "tags": [
-      "circuite electronice",
-      "masuratori"
+      "C/C++",
+      "software"
+    ],
+    "matchPercentage": 62,
+    "reason": "Internship de software engineering entry-level care valorifica partial programarea C/C++/Python, dar nu competentele hardware."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273258/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineer,-Intern---STRIPE",
+    "title": "Software Engineer, Intern - STRIPE",
+    "company": "ENTRY SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:25:59Z",
+    "status": "tested",
+    "tags": [
+      "C/C++",
+      "software"
+    ],
+    "matchPercentage": 62,
+    "reason": "Internship de software engineering care foloseste partial competentele de programare, fara parte hardware."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273099/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineer,-New-Grad---STRIPE",
+    "title": "Software Engineer, New Grad - STRIPE",
+    "company": "ENTRY SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:36:05Z",
+    "status": "tested",
+    "tags": [
+      "C/C++",
+      "software"
     ],
     "matchPercentage": 60,
-    "reason": "Tehnician electronist la un producător de electronice, cu sub 3 ani experiență, potrivire parțială."
+    "reason": "Rol Software Engineer pentru absolventi, entry-level, potrivire partiala prin competentele de programare."
   }
 ]
