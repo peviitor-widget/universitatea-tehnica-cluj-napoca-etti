@@ -1,146 +1,5 @@
 [
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161446909-electronics-development-engineer",
-    "title": "Electronics Development Engineer",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:46:31.371Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare hardware",
-      "electronica auto"
-    ],
-    "matchPercentage": 92,
-    "reason": "Proiectare hardware electronic pentru automotive powertrain, potrivire directă cu proiectarea de circuite și electronica auto."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161316379-electronics-hardware-design-engineer",
-    "title": "Electronics Hardware Design Engineer",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:46:31.371Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare hardware",
-      "electronica auto"
-    ],
-    "matchPercentage": 92,
-    "reason": "Proiectare hardware electronic pentru automotive powertrain, potrivire directă cu proiectarea de circuite și electronica auto."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
-    "title": "Working Student Embedded ADAS Software",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:46:31.371Z",
-    "status": "scraped",
-    "tags": [
-      "Embedded",
-      "Automotive"
-    ],
-    "matchPercentage": 92,
-    "reason": "Dezvoltare software embedded pentru ADAS pe hardware dedicat, aliniată direct cu competențele de sisteme embedded și aplicații auto."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
-    "title": "Working Student Laboratory Support (Electronics Testing)",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:46:31.371Z",
-    "status": "scraped",
-    "tags": [
-      "testare electronica",
-      "masuratori electronice"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rol de student pentru suport în laborator cu analize și testare electronică, direct relevant și la nivel potrivit."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3366286",
-    "title": "TEHNICIAN ELECTRONICA",
-    "company": "DIGITAL BIT SRL",
-    "location": [
-      "BUCURESTI SECTORUL 2",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "circuite electronice",
-      "masuratori electronice"
-    ],
-    "matchPercentage": 80,
-    "reason": "Tehnician electronică entry-level cu microcircuite, plăci de bază, măsurători și depanare de circuite, potrivire directă."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
-    "title": "Working student Deep Learning &amp; Data Science",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:46:31.371Z",
-    "status": "scraped",
-    "tags": [
-      "embedded auto",
-      "prelucrare imagini"
-    ],
-    "matchPercentage": 76,
-    "reason": "Working student in Deep Learning pentru ADAS (radar/lidar/vision), relevant pentru auto embedded si prelucrarea imaginilor."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/V3gVH4MgG2",
-    "title": "Specialist Administrare Retele Industriale (OT)",
-    "company": "E-INFRA S.A.",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:51:04Z",
-    "status": "scraped",
-    "tags": [
-      "retele calculatoare",
-      "securitate cibernetica"
-    ],
-    "matchPercentage": 72,
-    "reason": "Administrare retele industriale OT cu configurare, monitorizare si securitate, potrivire partiala pe retele de calculatoare si securitate."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/inginer-echipamente-testare/53/",
-    "title": "Inginer Echipamente Testare",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Pitești",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:39:26Z",
-    "status": "tested",
-    "tags": [
-      "instrumentatie",
-      "testare"
-    ],
-    "matchPercentage": 68,
-    "reason": "Rol de inginer pentru echipamente de testare, relevant direct pentru instrumentatie si testare electronica, dar fara detalii care sa confirme nivelul."
-  },
-  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3277202",
     "title": "TEHNICIAN ECHIPAMENTE DE CALCUL SI RETELE",
     "company": "OPTIMEAT SRL",
@@ -152,64 +11,172 @@
     "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "retele calculatoare",
-      "hardware"
+      "retele",
+      "calculatoare"
     ],
-    "matchPercentage": 62,
-    "reason": "Tehnician echipamente de calcul si retele, cu studii universitare si sub 3 ani experienta, foloseste partial competentele de hardware si retele."
+    "matchPercentage": 85,
+    "reason": "Tehnician echipamente de calcul si retele, studii universitare si sub 3 ani experienta, potrivire directa."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273100/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineering-Internship---BearingPoint",
-    "title": "Software Engineering Internship - BearingPoint",
-    "company": "ENTRY SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-in-ingineria-telecomunicatiilor",
+    "title": "Tehnician in ingineria telecomunicațiilor",
+    "company": "TELECOMUNICATII C.F.R. SA",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:48:21Z",
+    "status": "tested",
+    "tags": [
+      "telecomunicatii",
+      "retele"
+    ],
+    "matchPercentage": 82,
+    "reason": "Tehnician in ingineria telecomunicatiilor, domeniu care corespunde direct competentei de telecomunicatii si nivel de intrare acceptabil."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-retele-telecomunicatii/2493",
+    "title": "Tehnician Retele Telecomunicatii",
+    "company": "PRO CONECT SRL",
+    "location": [
+      "Suceava",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:10:32Z",
+    "status": "tested",
+    "tags": [
+      "retele",
+      "telecomunicatii"
+    ],
+    "matchPercentage": 82,
+    "reason": "Tehnician retele de telecomunicatii, sarcinile folosesc direct cunostintele de retele si comunicatii."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-retea-telecomunicatii-si-mentenanta/6430",
+    "title": "Tehnician Retea -Telecomunicatii si Mentenanta",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Giurgiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:36:29Z",
+    "status": "tested",
+    "tags": [
+      "retele",
+      "telecomunicatii"
+    ],
+    "matchPercentage": 82,
+    "reason": "Tehnician retea cu telecomunicatii si mentenanta, potrivire directa cu competentele de retele la nivel entry-level."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/tehnician-telecomunicatii",
+    "title": "Tehnician telecomunicatii",
+    "company": "TELECOMUNICATII C.F.R. SA",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:36:05Z",
+    "date": "2026-11-17T08:26:38Z",
     "status": "tested",
     "tags": [
-      "C/C++",
-      "software"
+      "telecomunicatii",
+      "comunicatii mobile"
     ],
-    "matchPercentage": 62,
-    "reason": "Internship de software engineering entry-level care valorifica partial programarea C/C++/Python, dar nu competentele hardware."
+    "matchPercentage": 82,
+    "reason": "Tehnician telecomunicatii pentru operatori de telefonie mobila, domeniu direct relevant si fara cerinte senior."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273258/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineer,-Intern---STRIPE",
-    "title": "Software Engineer, Intern - STRIPE",
-    "company": "ENTRY SRL",
+    "url": "https://multijobs.ro/job/tehnician-curenti-slabi-telecomunicatii/4099",
+    "title": "Tehnician curenti slabi/telecomunicatii",
+    "company": "WAVENET SRL",
     "location": [
-      "Bucuresti",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:25:59Z",
+    "date": "2026-11-17T09:21:15Z",
     "status": "tested",
     "tags": [
-      "C/C++",
-      "software"
+      "telecomunicatii",
+      "circuite"
     ],
-    "matchPercentage": 62,
-    "reason": "Internship de software engineering care foloseste partial competentele de programare, fara parte hardware."
+    "matchPercentage": 80,
+    "reason": "Tehnician curenti slabi si telecomunicatii, domeniu care foloseste cunostintele de electronica si comunicatii."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273099/Entry-Level-Jobs-in-TOP-Companies---Hipo.ro/Software-Engineer,-New-Grad---STRIPE",
-    "title": "Software Engineer, New Grad - STRIPE",
-    "company": "ENTRY SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3333052",
+    "title": "TEHNICIAN RETELE DE TELECOMUNICATII",
+    "company": "DELTANET SRL",
     "location": [
-      "Bucuresti",
+      "BOD",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:36:05Z",
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "telecomunicatii",
+      "retele"
+    ],
+    "matchPercentage": 80,
+    "reason": "Tehnician retele de telecomunicatii cu zero experienta, domeniu relevant desi munca se desfasoara in teren."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/V3gVH4MgG2",
+    "title": "Specialist Administrare Retele Industriale (OT)",
+    "company": "E-INFRA S.A.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-18T15:29:41Z",
+    "status": "scraped",
+    "tags": [
+      "retele",
+      "securitate"
+    ],
+    "matchPercentage": 80,
+    "reason": "Specialist administrare retele industriale OT, configurare retele, fibra optica si securitate, fara cerinta senior."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3290125",
+    "title": "UCENIC - Tehnician de telecomunicatii***",
+    "company": "RAPIDELECTROINSTAL S.R.L.",
+    "location": [
+      "CALARASI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "telecomunicatii",
+      "retele"
+    ],
+    "matchPercentage": 75,
+    "reason": "Ucenic tehnician de telecomunicatii, nivel de start adecvat desi sarcinile sunt mai degraba operationale."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3448926",
+    "title": "OPERATOR RETELE DE TELECOMUNICATII",
+    "company": "PRO CONECT SRL",
+    "location": [
+      "Cluj-napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:51:54Z",
     "status": "tested",
     "tags": [
-      "C/C++",
-      "software"
+      "retele",
+      "telecomunicatii"
     ],
-    "matchPercentage": 60,
-    "reason": "Rol Software Engineer pentru absolventi, entry-level, potrivire partiala prin competentele de programare."
+    "matchPercentage": 68,
+    "reason": "Operator retele de telecomunicatii, domeniu relevant dar sarcini mai degraba operationale si fara studii superioare cerute."
   }
 ]
